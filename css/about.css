@@ -1,268 +1,228 @@
+
 /*-- -------------------------- -->
 <---       Side By Side         -->
 <--- -------------------------- -*/
+
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
-  #sbs-578 .cs-container {
-    width: 100%;
-    max-width: 80rem;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    /* 48px - 64px */
-    gap: clamp(3rem, 7vw, 4rem);
+  #ABoutRPsbs-328,
+  #AboutRPsbsr-328 {
+      padding: var(--sectionPadding);
   }
-  #sbs-578 .cs-content {
-    /* set text aling to left if content needs to be left aligned */
-    text-align: left;
-    width: 100%;
-    max-width: 32.625rem;
-    /* moved section padding to the .cs-content so we can have the cs-picture be full width on mobile without the padding preventing it from doing so */
-    padding: var(--sectionPadding);
-    padding-top: 0;
-    /* prevents padding from affecting width and height */
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    /* centers content horizontally, set to flex-start to left align */
-    align-items: flex-start;
+  #ABoutRPsbs-328 .cs-container,
+  #AboutRPsbsr-328 .cs-container {
+      width: 100%;
+      max-width: 80rem;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      /* 48px - 64px */
+      gap: clamp(3rem, 6vw, 4rem);
   }
-  #sbs-578 .cs-text {
-    /* Override.  cs-topper cs-title and first cs-text should be removed and put into your global css sheet so it can control every instance of them on your site and is consistent. This selector is a section specific override that stays inside this stitch */
+  #ABoutRPsbs-328 .cs-content,
+  #AboutRPsbsr-328 .cs-content {
+      /* set text align to left if content needs to be left aligned */
+      text-align: left;
+      width: 100%;
+      max-width: 33.875rem;
+      display: flex;
+      flex-direction: column;
+      /* centers content horizontally, set to flex-start to left align */
+      align-items: flex-start;
+  }
+  #ABoutRPsbs-328 .cs-text,
+  #ABoutRPsbsr-328 .cs-text{
     margin-bottom: 1rem;
   }
-  #sbs-578 .cs-text:last-of-type {
-    margin-bottom: 2rem;
+  #ABoutRPsbs-328 .cs-text:last-of-type,
+  #AboutRPsbsr-328 .cs-text:last-of-type {
+      margin-bottom: 2rem;
   }
-  #sbs-578 .cs-picture {
-    display: block;
-    position: relative;
-    width: 100%;
-    height: 18.75rem;
+  #ABoutRPsbs-328 .cs-quote,
+  #AboutRPsbsr-328 .cs-quote {
+      margin: 0 0 2rem 0;
+      /* 16px - 32px */
+      padding: clamp(1rem, 3vw, 2rem);
+      background-color: #f7f7f7;
+      position: relative;
   }
-  #sbs-578 .cs-picture img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
+  #ABoutRPsbs-328 .cs-quote-text,
+  #AboutRPsbsr-328 .cs-quote-text {
+      /* 14px - 16px */
+      font-size: clamp(0.875rem, 1.5vw, 1rem);
+      line-height: 1.5em;
+      margin: 0 0 1rem;
+      color: #767676;
+      display: block;
   }
-}
-/* Tablet - 768px */
-@media only screen and (min-width: 48rem) {
-  #sbs-578 {
-    padding: var(--sectionPadding);
+  #ABoutRPsbs-328 .cs-name,
+  #AboutRPsbsr-328 .cs-name {
+      font-size: 1rem;
+      line-height: 1.2em;
+      text-transform: uppercase;
+      font-weight: bold;
+      margin: 0 0 0.25rem;
+      color: var(--headerColor);
+      display: block;
   }
-  #sbs-578 .cs-container {
-    flex-direction: row;
-    justify-content: flex-start;
-    /* 60px - 128px */
-    gap: clamp(3.75rem, 10vw, 8rem);
+  #ABoutRPsbs-328 .cs-job,
+  #AboutRPsbsr-328 .cs-job {
+      font-size: 0.875rem;
+      line-height: 1.5em;
+      color: #767676;
+      display: block;
   }
-  #sbs-578 .cs-content {
-    width: 53%;
-    /* reset the padding, add the section padding back to the section container */
-    padding: 0;
+  #ABoutRPsbs-328 .cs-quote-icon,
+  #AboutRPsbsr-328 .cs-quote-icon {
+      /* 60px - 136px */
+      width: clamp(3.75rem, 10vw, 8.5rem);
+      height: auto;
+      position: absolute;
+      bottom: 0rem;
+      /* 16px - 32px */
+      right: clamp(1rem, 4vw, 2rem);
   }
-  #sbs-578 .cs-picture {
-    width: 47vw;
-    max-width: 30.875rem;
-    /* 518px - 700px */
-    height: clamp(32.375rem, 63vw, 43.75rem);
-    /* 16px - 28px, added margin left and bottom to cs-picture so it pushes away by the same amount the yellow box element overlaps it left and bottom. This maintains consistent spacing left and bottom */
-    margin: 0 0 clamp(1rem, 2.4vw, 1.75rem) clamp(1rem, 2.4vw, 1.75rem);
-    position: relative;
+  #ABoutRPsbs-328 .cs-image-group,
+  #AboutRPsbsr-328 .cs-image-group {
+      /* scaling the font size with the view width */
+      font-size: min(2.31vw, 0.7em);
+      /* using ems so we can use font size to scale the whole section */
+      width: 39.4375em;
+      height: 39.75em;
+      position: relative;
   }
-  #sbs-578 .cs-picture:before {
-    /* yellow box */
-    content: '';
-    width: 50%;
-    height: 60%;
-    background: var(--secondary);
-    opacity: 1;
-    display: block;
-    position: absolute;
-    /* 16px - 28px, wrapped in calc function to multiple by negative 1 and get a negative clamp value */
-    bottom: calc(clamp(1rem, 2.4vw, 1.75rem)*-1);
-    left: calc(clamp(1rem, 2.4vw, 1.75rem)*-1);
+  #ABoutRPsbs-328 .cs-picture,
+  #AboutRPsbsr-328 .cs-picture {
+      /* clips img tag corners */
+      overflow: hidden;
+      position: absolute;
+      display: block;
   }
-}
-/*-- -------------------------- -->
-<---       Why Choose Us        -->
-<--- -------------------------- -*/
-/* Mobile - 360px */
-@media only screen and (min-width: 0rem) {
-  #why-choose-12 {
-    padding: var(--sectionPadding);
-    background-color: #f7f7f7;
+  #ABoutRPsbs-328 .cs-picture img,
+  #AboutRPsbsr-328 .cs-picture img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      /* makes image act like a background image */
+      object-fit: cover;
   }
-  #why-choose-12 .cs-container {
-    width: 100%;
-    max-width: 80rem;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    /* 48px - 64px */
-    gap: clamp(3rem, 6vw, 4rem);
+  #ABoutRPsbs-328 .cs-picture1,
+  #AboutRPsbsr-328 .cs-picture1 {
+      width: 32.625em;
+      height: 36.3125em;
+      left: 0;
+      top: 0;
   }
-  #why-choose-12 .cs-content {
-    /* set text align to left if content needs to be left aligned */
-    text-align: center;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    /* centers content horizontally, set to flex-start to left align */
-    align-items: center;
-  }
-  #why-choose-12 .cs-card-group {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    gap: 3.75rem;
-  }
-  #why-choose-12 .cs-item {
-    text-align: center;
-    list-style: none;
-    width: 100%;
-    max-width: 22.5rem;
-    margin: 0;
-    padding: 0;
-  }
-  #why-choose-12 .cs-picture {
-    /* 68px - 88px */
-    width: clamp(4.25rem, 7vw, 5.5rem);
-    height: clamp(4.25rem, 7vw, 5.5rem);
-    margin: auto;
-    margin-bottom: 2rem;
-    border-radius: 50%;
-    background-color: var(--primary);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  #why-choose-12 .cs-picture img {
-    width: auto;
-    height: 2.625rem;
-    display: block;
-  }
-  #why-choose-12 .cs-h3 {
-    font-size: 1.25rem;
-    line-height: 1.2em;
-    text-align: inherit;
-    font-weight: 700;
-    text-transform: uppercase;
-    margin: 0;
-    margin-bottom: 0.5rem;
-    color: var(--headerColor);
-  }
-  #why-choose-12 .cs-item-text {
-    font-size: 1rem;
-    text-align: inherit;
-    line-height: 1.5em;
-    margin: 0;
-    color: var(--bodyTextColor);
+  #ABoutRPsbs-328 .cs-picture2,
+  #AboutRPsbsr-328 .cs-picture2 {
+      width: 25.875em;
+      height: 25em;
+      background-color: #fff;
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 40px;
+      /* 6px - 12px */
+      border: clamp(0.375em, 1.5vw, 0.75em) solid #ffffff;
+      right: 0;
+      bottom: 0;
   }
 }
-/* Tablet - 768px */
-@media only screen and (min-width: 48rem) {
-  #why-choose-12 .cs-card-group {
-    flex-direction: row;
-    justify-content: space-between;
+/* Desktop - 1024px */
+@media only screen and (min-width: 64rem) {
+  #ABoutRPsbs-328 .cs-container,
+  #AboutRPsbsr-328 .cs-container {
+      flex-flow: row;
+      justify-content: space-between;
+      gap: 3.25rem;
+  }
+  #ABoutRPsbs-328 .cs-image-group,
+  #AboutRPsbsr-328 .cs-image-group {
+      font-size: min(1.2vw, 1em);
+      flex: none;
+  }
+  #ABoutRPsbs-328 .cs-content,
+  #AboutRPsbsr-328 .cs-content {
+      margin: 0;
   }
 }
 /* Dark Mode */
 @media only screen and (min-width: 0rem) {
-  body.dark-mode #why-choose-12 {
-    background-color: rgba(0, 0, 0, 0.2);
+  body.dark-mode #ABoutRPsbs-328 .cs-image-group:before,
+  body.dark-mode #AboutRPsbsr-328 .cs-image-group:before,
+  body.dark-mode #ABoutRPsbs-328 .cs-image-group:after,
+  body.dark-mode #AboutRPsbsr-328 .cs-image-group:after {
+      background: var(--accent);
   }
-  body.dark-mode #why-choose-12 .cs-title,
-  body.dark-mode #why-choose-12 .cs-h3,
-  body.dark-mode #why-choose-12 .cs-item-text,
-  body.dark-mode #why-choose-12 .cs-text {
-    color: var(--bodyTextColorWhite);
+  body.dark-mode #ABoutRPsbs-328 .cs-picture2,
+  body.dark-mode #AboutRPsbsr-328 .cs-picture2 {
+      background-color: var(--dark);
+      /* 6px - 12px */
+      border: clamp(0.375em, 1.5vw, 0.75em) solid var(--dark);
   }
-  body.dark-mode #why-choose-12 .cs-picture {
-    background: var(--primary);
+  body.dark-mode #ABoutRPsbs-328 .cs-title,
+  body.dark-mode #AboutRPsbsr-328 .cs-title,
+  body.dark-mode #ABoutRPsbs-328 .cs-text,
+  body.dark-mode #AboutRPsbsr-328 .cs-text,
+  body.dark-mode #ABoutRPsbs-328 .cs-h3,
+  body.dark-mode #AboutRPsbsr-328 .cs-h3,
+  body.dark-mode #ABoutRPsbs-328 .cs-quote-text,
+  body.dark-mode #AboutRPsbsr-328 .cs-quote-text,
+  body.dark-mode #ABoutRPsbs-328 .cs-name,
+  body.dark-mode #AboutRPsbsr-328 .cs-name {
+      color: var(--bodyTextColorWhite);
+  }
+  body.dark-mode #ABoutRPsbs-328 .cs-quote,
+  body.dark-mode #AboutRPsbsr-328 .cs-quote {
+      background-color: var(--accent);
+  }
+  body.dark-mode #ABoutRPsbs-328 .cs-job,
+  body.dark-mode #AboutRPsbsr-328 .cs-job {
+      color: var(--bodyTextColorWhite);
+      opacity: 0.8;
+  }
+  body.dark-mode #ABoutRPsbs-328 .cs-quote-icon,
+  body.dark-mode #AboutRPsbsr-328 .cs-quote-icon {
+      opacity: 0.2;
   }
 }
+
 /*-- -------------------------- -->
-<---            CTA             -->
+<---    Side By Side Reverse    -->
 <--- -------------------------- -*/
+
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
-  #cta-51 {
-    padding: var(--sectionPadding);
-    position: relative;
+  #AboutRPsbsr-328 {
+      background-color: #f7f7f7;
   }
-  #cta-51 .cs-container {
-    width: 100%;
-    max-width: 80rem;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    /* 48px - 64px */
-    gap: clamp(3rem, 6vw, 4rem);
+  #AboutRPsbsr-328 .cs-picture1 {
+      left: auto;
+      right: 0;
   }
-  #cta-51 .cs-content {
-    /* set text align to left if content needs to be left aligned */
-    text-align: center;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    /* centers content horizontally, set to flex-start to left align */
-    align-items: center;
+  #AboutRPsbsr-328 .cs-picture2 {
+      right: auto;
+      left: 0;
   }
-  #cta-51 .cs-topper {
-    color: var(--secondary);
+  #AboutRPsbsr-328 .cs-quote {
+      background-color: rgba(0, 0, 0, 0.05);
   }
-  #cta-51 .cs-title,
-  #cta-51 .cs-text {
-    color: var(--bodyTextColorWhite);
-  }
-  #cta-51 .cs-text {
-    /* Override.  cs-topper cs-title and first cs-text should be removed and put into your global css sheet so it can control every instance of them on your site and is consistent. This selector is a section specific override that stays inside this stitch */
+  #ABoutRPsbs-328 .cs-text,
+  #AboutRPsbsr-328 .cs-text{
     margin-bottom: 1rem;
-    opacity: .8;
-  }
-  #cta-51 .cs-text:last-of-type {
-    margin-bottom: 2rem;
-  }
-  #cta-51 .cs-picture {
-    height: 100%;
-    width: 100%;
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-  }
-  #cta-51 .cs-picture:before {
-    /* black color overlay */
-    content: '';
-    position: absolute;
-    display: block;
-    height: 100%;
-    width: 100%;
-    background: #000;
-    opacity: .8;
-    top: 0;
-    left: 0;
-    z-index: 1;
-  }
-  #cta-51 .cs-picture img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
   }
 }
+/* Desktop - 1024px */
+@media only screen and (min-width: 64rem) {
+  #AboutRPsbsr-328 .cs-image-group {
+      /* sends it to the right in the 2nd position */
+      order: 2;
+  }
+}
+/* Dark Mode */
+@media only screen and (min-width: 0rem) {
+  body.dark-mode #AboutRPsbsr-328 {
+      background-color: rgba(0, 0, 0, 0.2);
+  }
+}
+
