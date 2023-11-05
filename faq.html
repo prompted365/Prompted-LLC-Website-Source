@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Swap our for actual link-->
+    <link rel="canonical" href="https://www.openprompted.com/">
+
+    <meta name="description" content="Prompted LLC | That's Your Cue">
+    <meta name="keywords" content="AI, integration, small business, custom ai solutions, business AI solutions, tailored AI">
+
+    <!--Social Media Display-->
+    <meta property="og:title" content="Title that shows up on google searches"/>
+    <meta property="og:description" content="Meta description for the page"/>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="Official link for that page (https://www.site.com)"/>
+    <meta property="og:image" content="/assets/images/social.jpg"/>
+    <meta property="og:image:secure_url" content="/assets/images/social.jpg"/>
+
+    <!--Favicons-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png?v1">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicons/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Preload -->
+    <link rel="preload" as="image" href="assets/images/logo-light.png">
+    <link rel="preload" as="font" type="font/woff2" href="assets/fonts/open-sans-v36-latin-regular.woff2" crossorigin>
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/open-sans-v36-latin-700.woff2" crossorigin>
+
+    <link rel="stylesheet" href="/css/core-styles.min.css">
+    <link rel="stylesheet" href="/css/faq.min.css">
+    <link rel="stylesheet" href="/css/critical.min.css">
+    <link rel="stylesheet" href="/css/dark.min.css">
+
+    <title>That's Your Cue | Prompted LLC | Lafayette, IN</title>
+</head>
+
+<!--Screen reader skip main nav-->
+<a class="skip" aria-label="skip to main content" href="#main">Click To Skip To Main Content</a>
+
+
+
+<body>
+
+  <!-- ============================================ -->
+  <!--                 Navigation                   -->
+  <!-- ============================================ -->
+
+  <header id="cs-navigation">
+    <div class="cs-container">
+        <!--Nav Logo-->
+        <a href="index.html" class="cs-logo" aria-label="back to home">
+            <img src="assets/logos/dark-text.svg" alt="logo" width="210" height="29" aria-hidden="true" decoding="async">
+        </a>
+        <!--Navigation List-->
+        <nav class="cs-nav" role="navigation">
+            <!--Mobile Nav Toggle-->
+            <button class="cs-toggle" aria-label="mobile menu toggle">
+                <div class="cs-box" aria-hidden="true">
+                    <span class="cs-line cs-line1" aria-hidden="true"></span>
+                    <span class="cs-line cs-line2" aria-hidden="true"></span>
+                    <span class="cs-line cs-line3" aria-hidden="true"></span>
+                </div>
+            </button>
+            <!-- We need a wrapper div so we can set a fixed height on the cs-ul in case the nav list gets too long from too many dropdowns being opened and needs to have an overflow scroll. This wrapper acts as the background so it can go the full height of the screen and not cut off any overflowing nav items while the cs-ul stops short of the bottom of the screen, which keeps all nav items in view no matter how mnay there are-->
+            <div class="cs-ul-wrapper">
+                <ul id="cs-expanded" class="cs-ul" aria-expanded="false">
+                    <li class="cs-li">
+                        <a href="index.html" class="cs-li-link">
+                            Home
+                        </a>
+                    </li>
+                    <li class="cs-li">
+                        <a href="about.html" class="cs-li-link">
+                            About
+                        </a>
+                    </li>
+                    <li class="cs-li">
+                        <a href="services.html" class="cs-li-link">
+                            Services
+                        </a>
+                    </li>
+                    <li class="cs-li">
+                        <a href="contact.html" class="cs-li-link">
+                            Contact
+                        </a>
+                    </li>
+                    <!--Copy and paste this cs-dropdown list item and replace any .cs-li with this cs-dropdown group to make a new dropdown and it will work-->
+                    <!--
+                    <li class="cs-li cs-dropdown" tabindex="0">
+                        <span class="cs-li-link">
+                            Dropdown
+                            <img class="cs-drop-icon" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Fdown.svg" alt="dropdown icon" width="15" height="15" decoding="async" aria-hidden="true">
+                        </span>
+                        <ul class="cs-drop-ul">
+                            <li class="cs-drop-li">
+                                <a href="" class="cs-li-link cs-drop-link">Semaglutide</a>
+                            </li>
+                            <li class="cs-drop-li">
+                                <a href="" class="cs-li-link cs-drop-link">Tirezapetide</a>
+                            </li>
+                            <li class="cs-drop-li">
+                                <a href="" class="cs-li-link cs-drop-link">Semaglutide</a>
+                            </li>
+                            <li class="cs-drop-li">
+                                <a href="" class="cs-li-link cs-drop-link">Tirezapetide</a>
+                            </li>
+                            <li class="cs-drop-li">
+                                <a href="" class="cs-li-link cs-drop-link">Semaglutide</a>
+                            </li>
+                            <li class="cs-drop-li">
+                                <a href="" class="cs-li-link cs-drop-link">Tirezapetide</a>
+                            </li>
+                        </ul>
+                    </li>
+                    -->
+                    <li class="cs-li">
+                        <a href="how.html" class="cs-li-link">
+                            How it Works
+                        </a>
+                    </li>
+                    <li class="cs-li cs-active">
+                      <a href="faq.html" class="cs-li-link">
+                          FAQ
+                      </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <a href="contact.html#contact_page_form" class="cs-button-solid cs-nav-button">Contact Us</a>
+        <!--Dark Mode toggle, uncomment button code if you want to enable a dark mode toggle-->
+        <button id="dark-mode-toggle" aria-label="dark mode toggle">
+            <svg class="cs-moon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" style="enable-background:new 0 0 480 480" xml:space="preserve"><path d="M459.782 347.328c-4.288-5.28-11.488-7.232-17.824-4.96-17.76 6.368-37.024 9.632-57.312 9.632-97.056 0-176-78.976-176-176 0-58.4 28.832-112.768 77.12-145.472 5.472-3.712 8.096-10.4 6.624-16.832S285.638 2.4 279.078 1.44C271.59.352 264.134 0 256.646 0c-132.352 0-240 107.648-240 240s107.648 240 240 240c84 0 160.416-42.688 204.352-114.176 3.552-5.792 3.04-13.184-1.216-18.496z"/></svg>
+            <img class="cs-sun" aria-hidden="true" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Fsun.svg" decoding="async" alt="moon" width="15" height="15">
+        </button>
+    </div>
+  </header>
+
+<main>
+        <!-- ============================================ -->
+        <!--                   Banner                     -->
+        <!-- ============================================ -->
+
+        <div id="banner-712">
+          <div class="cs-container">
+              <span class="cs-int-title">FAQ</span>
+          </div>
+          <!--Background Image-->
+          <picture class="cs-background">
+              <!--Mobile Image-->
+              <source media="(max-width: 600px)" srcset="assets/images/interior/banner-m.webp">
+              <!--Tablet and above Image-->
+              <source media="(min-width: 601px)" srcset="assets/images/interior/banner.webp">
+              <img loading="lazy" decoding="async" src="assets/images/interior/banner-m.webp" alt="banner" width="1280" height="568" aria-hidden="true">
+          </picture>
+      </div>
+
+      <!-- ============================================ -->
+      <!--                     FAQ                      -->
+      <!-- ============================================ -->
+
+      <section id="faq-1237">
+        <div class="cs-container">
+            <div class="cs-content">
+                <span class="cs-topper">FAQ</span>
+                <h2 class="cs-title">Frequently Asked Questions - Prompted LLC</h2>
+            </div>
+            <!--We made two lists so when you open an FAQ item, they behave properly and separate from each other, wrapped in a wrapper div for better flexboxxing -->
+            <div class="cs-wrapper">
+                <ul class="cs-faq-group">
+                    <li class="cs-faq-item">
+                        <button class="cs-button">
+                            <span class="cs-number">1</span>
+                            <span class="cs-button-text">
+                              What exactly does Prompted LLC do?
+                            </span>
+                        </button>
+                        <p class="cs-item-p">
+                          Prompted LLC harnesses artificial intelligence to transform your operational and customer engagement strategies. From crafting custom AI models for predictive analytics to automating customer service, we empower organizations to innovate and thrive in a digital-first world.
+                        </p>
+                    </li>
+                    <li class="cs-faq-item">
+                        <button class="cs-button">
+                            <span class="cs-number">2</span>
+                            <span class="cs-button-text">
+                              I'm new to AI. How user-friendly are your solutions?
+                            </span>
+                        </button>
+                        <p class="cs-item-p">
+                          Our AI solutions are designed with user experience at the core. We provide intuitive interfaces, comprehensive training, and ongoing support to ensure ease of use, regardless of your team's technical expertise. 
+                        </p>
+                    </li>
+                    <li class="cs-faq-item">
+                        <button class="cs-button">
+                            <span class="cs-number">3</span>
+                            <span class="cs-button-text">
+                              How do you measure the success of your AI implementations?
+                            </span>
+                        </button>
+                        <p class="cs-item-p">
+                          Success is measured through tangible improvements in operational efficiency, customer satisfaction, and the achievement of strategic objectives. We track metrics like process times, user engagement, and support resolution speed, directly linking our solutions to your performance indicators.
+                        </p>
+                    </li>
+                    <li class="cs-faq-item">
+                        <button class="cs-button">
+                            <span class="cs-number">4</span>
+                            <span class="cs-button-text">
+                              Will AI replace the need for human employees?
+                            </span>
+                        </button>
+                        <p class="cs-item-p">
+                          Our AI enhances human capabilities, rather than replacing them. It streamlines repetitive tasks, provides data-driven insights, and supports complex decision-making, allowing your staff to focus on creative and strategic tasks that AI cannot replicate. 
+                        </p>
+                    </li>
+                    <li class="cs-faq-item">
+                        <button class="cs-button">
+                            <span class="cs-number">5</span>
+                            <span class="cs-button-text">
+                              Are your AI models one-size-fits-all? How do you address our unique challenges?
+                            </span>
+                        </button>
+                        <p class="cs-item-p">
+                          We pride ourselves on developing bespoke AI solutions. The process begins with an in-depth analysis of your specific pain points and objectives, followed by the creation of a tailored AI model that integrates seamlessly with your operations. 
+                        </p>
+                    </li>
+                    <li class="cs-faq-item">
+                      <button class="cs-button">
+                          <span class="cs-number">6</span>
+                          <span class="cs-button-text">
+                            What if our needs change after we've implemented your AI solution?
+                          </span>
+                      </button>
+                      <p class="cs-item-p">
+                        Flexibility is key in our AI solutions. They are built to adapt and scale with your changing needs, ensuring longevity and continued relevance as your organization grows and evolves.
+                      </p>
+                  </li>
+                  <li class="cs-faq-item">
+                      <button class="cs-button">
+                          <span class="cs-number">7</span>
+                          <span class="cs-button-text">
+                            We've had bad experiences with tech investments in the past. Why should we trust Prompted LLC?
+                          </span>
+                      </button>
+                      <p class="cs-item-p">
+                        We understand the hesitation that comes from past experiences. Our commitment to a partnership model means we are with you every step of the way, from initial assessment to post-implementation optimization. Our success is directly linked to yours, and we aim for impactful, measurable outcomes.
+                      </p>
+                  </li>
+                  <li class="cs-faq-item">
+                      <button class="cs-button">
+                          <span class="cs-number">8</span>
+                          <span class="cs-button-text">
+                            How cost-effective are Prompted LLC's AI solutions?
+                          </span>
+                      </button>
+                      <p class="cs-item-p">
+                        Investing in our AI solutions leads to cost savings in the long run by increasing efficiency, reducing waste, and preventing costly errors. We provide a detailed cost-benefit analysis to ensure you understand the financial impact and return on investment.
+                      </p>
+                  </li>
+                  <li class="cs-faq-item">
+                      <button class="cs-button">
+                          <span class="cs-number">9</span>
+                          <span class="cs-button-text">
+                            Can you guarantee the security of our data with your AI solutions?
+                          </span>
+                      </button>
+                      <p class="cs-item-p">
+                        Data security is paramount. We employ best-in-class security protocols and compliance measures to protect your data at every stage, ensuring privacy and integrity.
+                      </p>
+                  </li>
+                  <li class="cs-faq-item">
+                      <button class="cs-button">
+                          <span class="cs-number">10</span>
+                          <span class="cs-button-text">
+                            How do we start our AI journey with Prompted LLC?
+                          </span>
+                      </button>
+                      <p class="cs-item-p">
+                        Getting started is simple. Reach out to our team for a discovery session, where we'll discuss your vision and how our AI solutions can get you there. Let us help you unlock the potential of AI for your organization. 
+                      </p>
+                  </li>
+                </ul>
+            </div>
+        </div>
+      </section>
+                              
+
+</main>
+
+    <!-- ============================================ -->
+    <!--                   Footer                     -->
+    <!-- ============================================ -->
+
+    <footer id="cs-footer-1340">
+      <div class="cs-container">
+          <!-- Logo Group -->
+          <div class="cs-logo-group">
+              <h2 class="cs-title">Empowering Your Business with AI Innovation</h2>
+              <div class="cs-social">
+                  <a class="cs-social-link" aria-label="visit github profile" href="https://github.com/prompted365">
+                      <img class="cs-social-img" aria-hidden="true" loading="lazy" decoding="async" src="assets/icons/github.svg" alt="github" width="11" height="11">
+                  </a>
+                  <!-- TWITTER LINK uncomment when ready
+                  <a class="cs-social-link" aria-label="visit twitter profile" href="">
+                      <img class="cs-social-img" aria-hidden="true" loading="lazy" decoding="async" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/twitter-1a.svg" alt="twitter" width="6" height="11">
+                  </a>
+                  -->
+                  <!--
+                  <a class="cs-social-link" aria-label="visit linkedin profile" href="">
+                      <img class="cs-social-img" aria-hidden="true" loading="lazy" decoding="async" src="assets/icons/linkedin.svg" alt="linkedin" width="11" height="11">
+                  </a>
+                  -->
+              </div>
+          </div>
+          <!-- Links -->
+          <div class="cs-ul-wrapper">
+              <span class="cs-header">Quick Links</span>
+              <ul class="cs-ul">
+                  <li class="cs-li">
+                      <a class="cs-link" href="index.html">Home</a>
+                  </li>
+                  <li class="cs-li">
+                      <a class="cs-link" href="about.html">About</a>
+                  </li>
+                  <li class="cs-li">
+                      <a class="cs-link" href="services.html">Services</a>
+                  </li>
+                  <li class="cs-li">
+                      <a class="cs-link" href="contact.html">Contact</a>
+                  </li>
+                  <li class="cs-li">
+                      <a class="cs-link" href="how.html">How it Works</a>
+                  </li>
+                  <li class="cs-li">
+                      <a class="cs-link" href="faq.html">FAQ</a>
+                  </li>
+              </ul>
+          </div>
+          <div class="cs-ul-wrapper">
+              <!-- Contact Info -->
+              <span class="cs-header">Contact</span>
+              <ul class="cs-ul">
+                  <!-- PHONE NUMBER uncomment if/when ready
+                  <li class="cs-li">
+                      <a class="cs-link" href="tel:1234567890">
+                          <img class="cs-icon" aria-hidden="true" loading="lazy" decoding="async" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/phone-1a.svg" alt="phone icon" width="24" height="24">
+                          123-456-7890
+                      </a>
+                  </li>
+                  -->
+                  <li class="cs-li">
+                      <a class="cs-link" href="mailto:breyden@prompted.community">
+                          <img class="cs-icon" aria-hidden="true" loading="lazy" decoding="async" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/email-1a.svg" alt="email icon" width="24" height="24">
+                          breyden@prompted.community
+                      </a>
+                  </li>
+                  <li class="cs-li">
+                      <!--Make this link go to the google page-->
+                      <a class="cs-link" href="" target="_blank">
+                          <img class="cs-icon" aria-hidden="true" loading="lazy" decoding="async" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/pin-1a.svg" alt="pin icon" width="24" height="24">
+                          Lafayette, IN
+                      </a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+      <div class="cs-bottom">
+          <span class="cs-credit">
+              <a href="index.html" class="cs-credit-link" target="_blank">Prompted LLC was founded by Breyden Taylor</a>
+          </span>
+      </div>
+    </footer>
+
+<script defer src="/assets/js/nav.min.js"></script>
+<script defer src="/assets/js/faq.min.js"></script>
+
+</body>
