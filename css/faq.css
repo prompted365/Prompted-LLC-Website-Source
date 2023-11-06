@@ -69,11 +69,11 @@
       color: var(--secondary);
   }
   #faq-1237 .cs-faq-item.active .cs-button:before {
-      background-color: var(--primary);
+      background-color: var(--secondary);
       transform: rotate(315deg);
   }
   #faq-1237 .cs-faq-item.active .cs-button:after {
-      background-color: var(--primary);
+      background-color: var(--secondary);
       transform: rotate(-315deg);
   }
   #faq-1237 .cs-faq-item.active .cs-number {
