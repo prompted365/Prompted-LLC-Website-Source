@@ -837,6 +837,9 @@
         /* centers content horizontally, set to flex-start to left align */
         align-items: flex-start;
     }
+    #cs-contact-486 .cs-topper{
+        color: var(--secondary)
+    }
     #cs-contact-486 .cs-title {
         font-size: var(--headerFontSize);
         font-weight: 900;
