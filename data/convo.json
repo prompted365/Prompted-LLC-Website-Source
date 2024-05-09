@@ -1,0 +1,914 @@
+[
+    {
+        "time": "0:00",
+        "words": " I can say I'm an expert in the stuff despite not having 10 years of AI experience there's a few dangers to AI"
+    },
+    {
+        "time": "0:05",
+        "words": " that people perhaps aren't aware of I think the most dangerous thing for AI when it comes to businesses is expecting"
+    },
+    {
+        "time": "0:11",
+        "words": " it to be the silver bullet and you said something there that's so pivotal to everyone who listens to this it's I had to change my beliefs I've always tried"
+    },
+    {
+        "time": "0:17",
+        "words": " to be open to changing you saw the guys who made all the e-commerce money and were just obnoxious and awful about it I guess it's just keeping my eyes open as"
+    },
+    {
+        "time": "0:23",
+        "words": " much as possible and not willing victim to a pattern set by people before me give me an example then of how people"
+    },
+    {
+        "time": "0:28",
+        "words": " can use AI to get more leads the most popular ones at the moment is things like are you spending money on vanity"
+    },
+    {
+        "time": "0:35",
+        "words": " metrics rather than spending money on what actually really moves need and you've always got to question yourself on what path you're getting pulled down"
+    },
+    {
+        "time": "0:41",
+        "words": " as an entrepreneur purely comes down to those kpis change the metric then you get a much B lens to look through to determine what success really is if you"
+    },
+    {
+        "time": "0:47",
+        "words": " are the plumber if you are the carpenter if you are the mechanic you should 100% look at implementing AI into your Topp"
+    },
+    {
+        "time": "0:53",
+        "words": " of funnel reaching out to more clients how can we be cold emailing how can it reply to emails all this kind of stuff if I was to have the biggest impact on"
+    },
+    {
+        "time": "1:00",
+        "words": " as many people's lives as possible it would"
+    },
+    {
+        "time": "1:07",
+        "words": " be if there's one topic I've wanted to dive into with you guys for the longest time it's Ai and how you can implement"
+    },
+    {
+        "time": "1:13",
+        "words": " it into your business your Brands and everything you doing because at the end of the day if you're not utilizing AI"
+    },
+    {
+        "time": "1:19",
+        "words": " right now I think you're at a loss so today I've bought on Liam he's the founder of M inside Ai and this guy is"
+    },
+    {
+        "time": "1:26",
+        "words": " an absolute wizard when it comes to implementing these strategies in your business mate welcome to the show pleasure to be here thanks for having me"
+    },
+    {
+        "time": "1:32",
+        "words": " on mate I uh I wanted to try and give you a little bit of um a decent intro but I think I've kind of sold you short"
+    },
+    {
+        "time": "1:39",
+        "words": " give me a background into how you first got into AI obviously I see you as the AI expert if I've got any AI questions I"
+    },
+    {
+        "time": "1:45",
+        "words": " ask you so like give me a bit of a background to how you stumbled into it yeah it's a uh it's a long story but"
+    },
+    {
+        "time": "1:50",
+        "words": " it's also at the same time not not the longest um with the AI that we have at the moment uh it's the llm base AI like"
+    },
+    {
+        "time": "1:56",
+        "words": " chat GPT that's kind of my area of socialy and a lot of people been specialist in AI for 5 10 years but it's"
+    },
+    {
+        "time": "2:02",
+        "words": " really the the other types of AI that have been around for a lot longer but it's the the recent boom we've seen is based off this llm AI stuff so"
+    },
+    {
+        "time": "2:09",
+        "words": " technically I'm an expert in the llm specialist types of AI which is really what everyone calls AI these days and uh"
+    },
+    {
+        "time": "2:15",
+        "words": " it's been about a 14mon journey for me since I really got into it but that was sort of the uh the end product of of a"
+    },
+    {
+        "time": "2:21",
+        "words": " long journey of over four years of ENT entrepreneurship before that so um I got into as everyone does doing e-commerce"
+    },
+    {
+        "time": "2:27",
+        "words": " and Drop Shipping to get my start getting my sort of fin my feet in the online business space um and then I went"
+    },
+    {
+        "time": "2:32",
+        "words": " on to working in my business partners marketing agency which was again furthering my marketing skill set but then I had a chance I'd made enough"
+    },
+    {
+        "time": "2:38",
+        "words": " money and I was like I want to go back to working on some of the stuff that I really liked when I was younger uh which was developing software and building and"
+    },
+    {
+        "time": "2:44",
+        "words": " coding um and so I spent a year basically took a whole year off Hiatus teaching myself to code doing udemy"
+    },
+    {
+        "time": "2:50",
+        "words": " courses everything I could get my hands on learning python machine learning and it was just very very convenient timing"
+    },
+    {
+        "time": "2:56",
+        "words": " that uh at the same time as chat GPT came out I got exposure to that I think"
+    },
+    {
+        "time": "3:01",
+        "words": " in December of 2022 and that was just like literally a few weeks after I'd"
+    },
+    {
+        "time": "3:06",
+        "words": " been playing around with like other language models um other than gpt3 for sentiment analysis tasks and I'd be"
+    },
+    {
+        "time": "3:12",
+        "words": " doing like okay can I scrape Twitter and analyze the sentiment of these tweet so without even knowing it I was it's it's"
+    },
+    {
+        "time": "3:18",
+        "words": " scary when I look back at it now because it was so close to exactly what I'd end up doing for the next 12 months and in"
+    },
+    {
+        "time": "3:24",
+        "words": " probably 5 10 years or more for now um and then so it's a very quick hop skip and a jump for me to go from the the"
+    },
+    {
+        "time": "3:30",
+        "words": " coding work that I was doing with uh language models over to chat GPT and and and gpt3 and the language models that"
+    },
+    {
+        "time": "3:37",
+        "words": " opening I been created so um launched my YouTube channel in start of 2023 January"
+    },
+    {
+        "time": "3:42",
+        "words": " soon as I saw the opportunity I was like okay I'm going all in on this and I'm this is what I want to focus on for the next while and really you you see me"
+    },
+    {
+        "time": "3:50",
+        "words": " become more of an expert over the past year 14 14 months I've just decided to"
+    },
+    {
+        "time": "3:55",
+        "words": " document my journey the whole way and you can see me doing coding tutorials and and putting in the Reps and working on on how can I get these llms and"
+    },
+    {
+        "time": "4:01",
+        "words": " systems to build different things for businesses and I just did it over and over and over and over again and then we started doing it over and over again for"
+    },
+    {
+        "time": "4:07",
+        "words": " clients through my agency morning Ai and yeah the rest of s then we started teaching it to other people as well um"
+    },
+    {
+        "time": "4:13",
+        "words": " and the way that I've become what you would call an expert again I don't want to seem to do follow of myself here but"
+    },
+    {
+        "time": "4:19",
+        "words": " for the llm technology that we have I I would definitely cast myself as an expert in terms of how it applies the"
+    },
+    {
+        "time": "4:25",
+        "words": " business as you said but not to waltz into the into the space with 14 months experience I know there's nothing more"
+    },
+    {
+        "time": "4:31",
+        "words": " obnoxious than that but uh there's AI experts for 10 years I can say that I'm an expert in llm solutions for"
+    },
+    {
+        "time": "4:36",
+        "words": " businesses which is kind of what everyone calls AI for now so that's that's how I got into it yeah no I love that and and one of the things that I"
+    },
+    {
+        "time": "4:42",
+        "words": " love about what you've done specifically in AI is the fact of like you've gone okay right I need to make money so I've made"
+    },
+    {
+        "time": "4:49",
+        "words": " money in my marketing agency I've done all that I've been in that space I've made my money now I want to lock myself"
+    },
+    {
+        "time": "4:55",
+        "words": " away so I can do the thousands of hours worth of reps that it takes to become an expert in these in these llms these"
+    },
+    {
+        "time": "5:01",
+        "words": " protocols these language models that you're talking about which is what you've done you've took yourself away even when I was trying to book this"
+    },
+    {
+        "time": "5:07",
+        "words": " podcast with you like and we arranged the time me and you arrang the time for the podcast when I when I even tried to"
+    },
+    {
+        "time": "5:13",
+        "words": " put it in your calendar you've you've got an auto cancelling thing in your calendar because you you specifically want your time at certain times of the"
+    },
+    {
+        "time": "5:19",
+        "words": " day to be able to do what you say you're doing so you are literally a practitioner of what you say you you"
+    },
+    {
+        "time": "5:24",
+        "words": " lock out the time and you put the Reps in to learn these models I think there's"
+    },
+    {
+        "time": "5:30",
+        "words": " a few dangers to AI that that people perhaps aren't aware of um you must have"
+    },
+    {
+        "time": "5:36",
+        "words": " come across some of them in your journey that where where you know like there's some downsides to this right because"
+    },
+    {
+        "time": "5:42",
+        "words": " I've seen it on um seen other experts talk about the pitfalls of this so I want to see what you think of the"
+    },
+    {
+        "time": "5:48",
+        "words": " pitfalls of this I think uh there's probably people have better better more experien these these 10e AI guys can"
+    },
+    {
+        "time": "5:54",
+        "words": " tell you about the long term like is this going to is this going to destroy the world or anything I I'm more of an optimist on it I think humans have"
+    },
+    {
+        "time": "6:01",
+        "words": " always invented our way out of problems I'm not someone who thinks that we're going to conserve our way out we we need to change everything in our world to"
+    },
+    {
+        "time": "6:07",
+        "words": " conserve things to to restrict humans across the globe in order to meet our"
+    },
+    {
+        "time": "6:13",
+        "words": " survival Target so that the world doesn't blow up I think that the only way that humans have succeeded in the past is to invent our way out of things"
+    },
+    {
+        "time": "6:19",
+        "words": " new new energy sources new technologies that's just been the case of humans from from day dot right so um I'm a big"
+    },
+    {
+        "time": "6:26",
+        "words": " Optimist that AI can end up being something that us to event invent our way out of the biggest problems like"
+    },
+    {
+        "time": "6:32",
+        "words": " climate change and and all these other sort of getting becoming multiplanetary if we can create AI That's uh smart"
+    },
+    {
+        "time": "6:38",
+        "words": " enough and super intelligent that can assist us with creation and and new technologies then we can invent our way"
+    },
+    {
+        "time": "6:44",
+        "words": " out of I mean like Limitless energy if it can invent a way for us to create a limitless energy source that's that's"
+    },
+    {
+        "time": "6:50",
+        "words": " basically all of Humanity's problems solved in in in an afternoon so um I think that my way"
+    },
+    {
+        "time": "6:57",
+        "words": " of Leaning into that and making sure that AI has a positive effect on the world is okay how can I teach what I've"
+    },
+    {
+        "time": "7:03",
+        "words": " done and sort of how I found my opportunity of okay look AI is going to be this Big Field you can go in there"
+    },
+    {
+        "time": "7:08",
+        "words": " and you can find your opportunity I created my YouTube channel I started doing consulting I've done basically any AI business you can make along along the"
+    },
+    {
+        "time": "7:15",
+        "words": " way in order to find my opportunity of okay this is my agency and then I also okay how can other people start agencies"
+    },
+    {
+        "time": "7:20",
+        "words": " as well and that's allowing me to have the biggest impact and good on the world because if I can turn entrepreneurs into"
+    },
+    {
+        "time": "7:27",
+        "words": " AI entrepreneurs and give them the the skill SKS and the understanding that they need to use this technology to further innovate and build okay here's"
+    },
+    {
+        "time": "7:35",
+        "words": " how AI can help businesses in this way here's how AI can help customers here's how AI can help like some of our clients that we do with our at warning side is"
+    },
+    {
+        "time": "7:41",
+        "words": " how can this help the medical industry so my way of having the biggest impact on making sure that AI does have the the"
+    },
+    {
+        "time": "7:48",
+        "words": " best effect on the world is to create as many AI entrepreneurs as possible but going back to your question I think the"
+    },
+    {
+        "time": "7:53",
+        "words": " most dangerous thing for AI when it comes to businesses is expecting it to be the Silver Bullet that's just going"
+    },
+    {
+        "time": "7:58",
+        "words": " to and uh we get this a lot something there's a lot of expectation management"
+    },
+    {
+        "time": "8:03",
+        "words": " when you're working with like AI clients from from within our agency and they'll The Importance of Prompt Engineering in AI"
+    },
+    {
+        "time": "8:08",
+        "words": " see chat GPT and they'll just think it's a is going to solve everything my business and it's not it's still the technology we have is is text based in"
+    },
+    {
+        "time": "8:15",
+        "words": " many ways you have the sort of vision models as well um and and sound there's all sorts of different models but for"
+    },
+    {
+        "time": "8:21",
+        "words": " the most part it's this technology is being able to predict the next letter or next next word in the in the sentence"
+    },
+    {
+        "time": "8:27",
+        "words": " right so there's nothing super scary about that and the technology itself is fundamentally quite dumb but that's why"
+    },
+    {
+        "time": "8:34",
+        "words": " it is not going to be the Silver Bullet of people and I think people the biggest danger for people as it applies to their"
+    },
+    {
+        "time": "8:39",
+        "words": " life is going to be let's not expect this thing to do everything for us it's still very hard to build systems that"
+    },
+    {
+        "time": "8:45",
+        "words": " are are capable and do do what you expect them to do I I saw this firsthand because I consider myself because I've"
+    },
+    {
+        "time": "8:50",
+        "words": " been exploring AI for such a long time within my business now like you know the last year and a half two years I I've"
+    },
+    {
+        "time": "8:57",
+        "words": " been kind of tampering with different AI I mean even go going back a couple of years even Jasper you know when Jasper"
+    },
+    {
+        "time": "9:05",
+        "words": " first came out as a as a product even that was t a certain type of AI back in the early days so i' I I've I've seen it"
+    },
+    {
+        "time": "9:11",
+        "words": " one thing I've noticed about Ai and the the difference in your result is engineering the right prompts to get the"
+    },
+    {
+        "time": "9:18",
+        "words": " outcome that you want and I think a lot of people fail when they're prompting chat GPT for a example if you give it a"
+    },
+    {
+        "time": "9:25",
+        "words": " rubbish description you will get a rubbish outcome so just break down where"
+    },
+    {
+        "time": "9:30",
+        "words": " people could where you see people being able to use it in their business and also how to prompt it to get the best"
+    },
+    {
+        "time": "9:36",
+        "words": " out of it yeah so I think what you touched on there is prompt Engineering in the first place and prompt"
+    },
+    {
+        "time": "9:41",
+        "words": " engineering is something that I've had sort of a bit of a journey with and I think everyone else deserves to give it a bit of a second look if once heard"
+    },
+    {
+        "time": "9:48",
+        "words": " okay there's these guys making $300,000 a year being hired by these AI companies to do prompt engineering so basically"
+    },
+    {
+        "time": "9:53",
+        "words": " just writing English and getting paid stupid amounts of money uh but there's a reason that it's so important as you"
+    },
+    {
+        "time": "9:58",
+        "words": " mentioned if you give it a a b a crap prompt it's not going to give you the output garbage in garbage out and I've 10:04 recently had to revisit prompt engineering as a topic on my channel uh if you guys go to my channel you can see I've got an hourong video of me just 10:11 talking through exactly what we use at at my agency um that we've developed over 12 months of delivering for clients and it's it's formulaic but we don't 10:18 want to teach the the formula underlying it and for business owners who are looking to to apply these systems to their to their own businesses knowing 10:25 the fundamentals of prompt engineering and how you can get these language models to do what you expect them to do 10:30 and and extract value out of these models the by by definition the the quality of your instructions determines 10:36 the amount of value you can extract out of this technology so if you can make your instructions better you can get 10:41 more value out of this new technology than the other person can so that's why I highly recommend if you as a business 10:47 owner have not taken a decent amount of prompt engineering courses to bring come up to speed on okay yes there's there's 10:52 conversational prompting which is using chat GPT and and you can sort of there's a wide wide error for wide margin for 10:58 error because you can tell it to okay you haven't done that correctly can you please you can nudge it back in the right direction but 11:04 when it comes to Building Systems you need to have a you can't do that if you've built AI into a part of your business say part of your your sales 11:11 process and it's going to trans translate or skim over transcript and do some outputs it needs to be so well 11:17 prompted that it gives the exact right answer every single time so that kind of skill for business owners and then also 11:24 teaching that to some degree to your team allowing them to say okay you can now systemize this particular task and 11:31 use AI as a as a function to take some inputs process it and then output it you can get your team to build their own AI 11:38 tools and systems to to speed things up um and make their make the systems even better but when it comes to the things 11:45 that are most beneficial for businesses there's a a wide range of different things that are on the market at the moment and it's it's been a long time 11:51 coming it's been like 12 12 months since uh since we're really delivering these things and the technology that we had 12 11:57 months ago was absolutely garbage and there's very very few systems you could build without a ton of custom code 12:03 and Building Things really from scratch with an expensive team so the question really is if you want to try and benefit 12:09 your business with AI yourself and learn these things like prompt engineering and and try to Tin around or do you want to 12:15 go to an agency and say hey look I'm looking to get a a tailored solution here to really implement it so the issue 12:20 then is that do you have the use case do you know what you know you don't know what you don't know right so if you need to somehow have exposure to what AI can 12:26 do for your business and and hopefully I can I can do a bit of that on this yeah I think I think you're right in what you're saying I think if you've got the 12:32 capital and you've got a really capitalized business doing 50 to 100K a month maybe you bring someone on like 12:38 yourself that that that can help guide and this that the other I think people though at less than 50k a month I think 12:45 you want to you want to learn as much as you can yourself so you really understand it so you can actually implement it I mean one of the things 12:51 that I worked on and worked out as a as a clear prompt for me was when I was looking for sales copy I I I used to I 12:58 just go you know you can pre- prompt the AI to to write sales compy and what I mean by that is you go well um you know 13:06 write write me a long form sales letter in in the voice of insert copywriter 13:11 name that's one of the best in the world let's just say Frank Kern um for and then insert the topic and then and then 13:18 give using this example copy that we've already pre-written but just make it better you know and then that's such a 13:24 long prompt and you get a real specific answer when you prompt like that whereas some people are going right a long form 13:29 sales letter for this this this Niche you're not going to get anywhere near the quality that you need because it's 13:35 not in the voice of anybody it's not it's not written in anyone's style it's not it's not mimicking anything you're 13:40 not giving it enough data to be able to you know Put It Forward have you y so that's that's exactly what the video 13:46 that I I put out recently addresses it's just you need a certain set of components or at least I call it a 13:51 toolkit and I've based at well at morning side we've based all of our the components of our prompt that's kind of 13:56 our go-to I'd say formula but formula end up being crutches for people they rely on templates and they don't 14:02 understand the thinking behind it so I've tried to teach not just okay here's a a formula kind of taken the P out of 14:07 here's another formula but it's a formula and here's why each part is included and we have research papers backing up each one so people are going 14:13 crazy with uh researching these llms and and testing the prompting methods and it's really cool stuff that's going on 14:19 in the in the academic space but we're taking the learnings from that and saying like Okay role prompting okay emotion prompting uh lost in the middle 14:25 effect there's all these different effects that these llms are just they're black boxes and we kind of throw 14:30 something in and something comes out on the other side so we don't really know what's happening but what they can do is do use these these scientific papers to 14:37 determine okay this is a general Trend as to how they behave how can we incorporate that into into our prompting and that's what I'm I'm trying to teach 14:43 on the channel particularly because if I don't teach my audience and and all the people who follow me how to do prompt 14:49 engineering everything is Downstream of that because if you're trying to make voice agents which we can go into a a bit we if you want to make Tech space Increasing Profitability with Lead Generation Chatbots 14:55 agents if you want to create automations if you want to create AI tools everything that you do is Downstream of that so if I'm trying to create educate 15:03 other people on how to start AI businesses particularly AI agencies and say I I have my own software as well but 15:09 in order for my software to do well I need to have people who can successfully run AI agencies and be profitable so 15:15 that I have to teach them how okay if you don't know how to prompt you're never going to become a successful Agency on you're never going to end up 15:20 using my software I don't win if you don't win so that's why I go back to the basics and I teach okay prompt engineering okay what's the basics of AI 15:26 agents you'll see on my channel I do 2our 3 long videos on how to build chatbots let's bring it down to its 15:32 simplest form and give examples cuz I think it'll be useful for the audience I want them to have practical advice they 15:38 can take away from this podcast and use use from today um without having to go and look at another video Even though 15:44 even though I know that they will even even though I know it's more it's a deeper topic than what we're talking about here but like let's just let's 15:50 just I want to I really want to dive deep into this prompt engineering with examples so give give me some basic examples of um a bad prompt um for a 16:00 topic and a good prompt you know give give me some so so people can understand yes so using the example of uh say we 16:07 have a system and it's email classification I we typically work with with Building Systems businesses right so it's going to be this thing is going 16:13 to be deployed and probably on something like zapier or make and there's an AI task within it and say we have emails coming in from a lead form and people 16:20 are saying oh hey look I'd like to build this we want to use an AI classifier to read that email read the subject line 16:26 maybe take as much information as possible and then label it just label you could set up an order responder but 16:31 in this case we just want to label it as an example so we want to label it as okay this is an opportunity for our business it meets our criteria of what 16:37 we're looking to do U maybe needs opport needs attention if it's something that's kind of it's not too sure on but could 16:43 be interesting could not and then ignore if it's just a time waste of tie cracker so the system that prompt itself the 16:49 most basic version that people would do is classify this email into needs opportunity and and opportunity a needs 16:57 attention opportunity and IGN more just three labels that's that's all the average chat gbt user would use is just 17:03 put in a description of the task but if you want to create this thing to be far more consistent you can start to layer 17:08 in these other techniques so the first thing that will'll add in is a a role prompt and this is something that you're probably familiar with a lot of the 17:14 audience will be as well saying as you said with a copyright example like you are Gary H you are XYZ so either using a 17:19 specific name and referencing someone in real life or in history that it would know about in its training data as a 17:25 role prompt saying or it's it's generally easier U if you don't have a a an obvious example just say you are a 17:31 worldclass insert person who does this so you are a world-class email classifier assistant you are the by far 17:37 the best you have you are so precise you are exact and you really hype the model up so hyping the model up is a thing 17:43 that is highly recommended you can get sort of 100% performance increases on your outputs if you can hype it up so 17:48 the role prompt is is an easy one to add in UI XYZ and then sort of tell it how grad is it doing its task um then I add 17:54 a section called specifics which is something you can add a little bit more context to the tasks so if the task is 18:00 the email classification step we might say okay can you please only output this label as your as your output just the 18:06 label in the word itself then you can go into context okay what is the context in which the system is actually operating 18:11 this you are operating as part of our our sales process and this is how customers are getting in touch with us 18:17 and you give it more context as to how it's operating within the system as a whole and then you can add examples of course adding okay this is this is that 18:24 one email this is the label we should put this is another email this is the label we should put and then finally at the end there is a a note section that 18:31 we like to use which is really just for taking on things if it's not performing correctly so there scientific papers 18:37 behind each of those different components but as a general rule of thumb roll tell it who it is Task tell it what to do specifics reiterate things 18:44 within the task um that it may forget what you want to highlight context what is the system doing and what context is 18:50 it performing it in who is your business who are your customers Etc examples can you give input output pairs of human 18:56 written outputs so it knows what to do and then notes at the end for anything you need to T on so that's kind of our 19:01 inwin formula I tried to give it as fast as possible no that's that I I love the way you've done that because it literally that literally breaks it right 19:07 down for me because like you've got you've you're talking about most people putting two one line of data literally a 19:15 sentence to get chat GP to work and if it doesn't work for them they get aggravated you know some better prompt 19:21 Engineers may put in a paragraph but what you're talking about is you're putting in an absolute framework to how 19:27 you want it to be do done you give the specific you give a measurable outcome in terms of what a human's done at the 19:33 end an example you give the specifics of the tasks that they should concentrate on you give it the outline of who it's 19:40 it's got to be okay you are the world- class copywriter Gary Halbert write this direct response letter in the voice of 19:46 Gary Halbert and for this Niche specifically what you want include specifics of what you include and and 19:52 you just really really breaking it down so I guess what what I want everyone to pick up is like the more detail you can 19:59 put into this model the better outcome you're going to get and that might sound yeah that's obvious Frankie but it's not 20:05 obvious is it because some people aren't doing it so how so you is this is a template they can get from your channel 20:12 yep it's uh it's it's a video I guess we can can link up below or something but it's I did a hourong breakdown I also got my CTO so it's not just my learnings 20:19 this is actually coming from because I obviously don't develop my own solutions for my clients more my my team does that 20:24 so my CTO Spencer who's got six seven years of of NLP experience he's been the one who's really pulling on this 20:30 information and and I actually get him in on the video uh for 10 minutes to discuss new things and he taught me more in that in that little 10 minutes that I 20:36 didn't even know before that I I started the video so um yeah there's there's there's plenty of stuff on that video there's there's something crucial you 20:42 just said there NLP so you use neural linguistic programming with inside your 20:48 model to get a better outcome in terms of like what the deliverables and how deliverables are used in like you know 20:56 and how they transpire it's a tricky cuz NLP was neural linguistic program but it's also natural language processing so 21:02 on the development and sort of AI side of things it's uh it's natural language processing but in the neural linguistic 21:09 programming has been a thing for a lot longer right so oh I I thought you were you were layer in neural linguistic 21:14 program into it and using like how to the psychology of the whole thing on top 21:19 L people do integrate that into prompting and it's I I guess some of what is underpinning it because the it 21:25 all comes off what's trained these models are trained on right so um that may have if it's mimicking a human brain 21:30 they have a neuron Network potentially it would um I know some of my students um are NP practitioners and they create 21:37 the these prompting tools that integrate NP um neural linguistic programming not natural language processing into their 21:43 prompt as well and they perform great so I've yet to do any side-by-side tests to see if there's I guess to some degree um 21:49 there are some techniques like emotion prompt uh that could be based off that but i' need to do some more research I'm so sure people are looking into it so 21:56 what industries do you see the most getting disrupted because originally when AI was on the was was coming out 22:02 into the world I wasn't I was expecting other things to get disrupted I wasn't expecting it to start disrupting 22:09 copywriters and photographers and graphic designers and the way that it 22:15 has I wasn't expecting that layer to go first so like where where else do you see it really disrupting the marketplace 22:20 right now and and how can people get ahead of it so they don't get their businesses toasted by this yeah I guess 22:27 businesses versus uh employees is a bit of a different one if you're let's go for both let's go for employees first 22:33 where is it where is it disturbing you um I I don't have my finger on the pulse that much on the employee side but I 22:38 would say just any knowledge work if you're if you're like writing of course is quite a big one I think the the 22:44 entire uh film uh industry is up for a big shake up with things like Sora 22:49 coming out which are complete like it will completely change our world I think we're underestimating just how much 22:55 these video sorry if you're not familiar with Sora it's open A's video generation model now so you can say uh generate me 23:02 a a uh first person view shot of someone skydiving over the dollar mites or 23:08 something and then it can based off training data it can generate you a video exactly like that so if you're 23:13 looking to generate a b roll for your your video or you're looking to even create a whole movie at some point and 23:19 say hey make a movie that does this this and this that's going to completely change certain industries like the film so uh when it comes to knowledge workers 23:26 um it's not going to be the plumbers who are get inut out of a job it's going to be the the people who are using their brain and anything that you can try to 23:33 uh download someone's someone's Consciousness and and their their knowledge into a certain system um then 23:39 you technically can be replaced so for me making my videos if I can take all of my my information in my brain about how 23:44 to start AI businesses and and how I run my agency into some kind of system and then I can say okay well generate me 23:50 five new video ideas suddenly I'm I'm kind of looking less less uh necessary to the system um whether or not it can 23:56 actually be creative and come up with things that are outside of of that is yet to be seen uh but anything knowledge knowledge uh knowledge work related so 24:03 if you're an office if you're consultant these kind of things are kind of getting a bit close and that's why we're trying to get people to make the jump now into 24:09 itd rather be the one doing the replacing than the one being replaced because if you're an knowledge worker you probably got great skills that you can transfer over to starting one of 24:16 these businesses yeah and 100% all the all like one one of the things that I see getting Disturbed most is like the 24:21 knowledge workers with in the government sector because obviously governments you know in any country there's there's a 24:27 vast amount of workers in these in these environment too many to there are too many and obviously they're going to lean 24:33 that out aren't they and a lot of public servants are going to get leaned out of AI because they're not required you know 24:38 so if you can learn how to use Ai and put it in with what you're doing and use it as a tool for your betterment and to 24:45 make you more productive in your role I think that's the way that you should look at AI rather than looking at it as a danger to you yeah I mean if you can 24:52 position yourself with again I'm not a I'm not a a veteran in the workforce but if I was in their position um and I was 24:59 was working under 5 I had a a job I would be trying to be the most AI Centric person in the whole team I'd be 25:05 saying hey look bringing things through the boss and saying look I can add value to this team by recommending ways that we can augment like there's augmentation 25:11 of humans and then setting up co-pilot systems which is like okay I'm going to do my job faster and better um and then 25:16 there's replacement and I think for a lot of the maybe a bit a peace of mind for some people are watching we're definitely in the augmentation stage 25:23 right now um there's replacement of of smaller tasks uh but it's it's definitely an augmentation of of of 25:29 roles primarily what you know when it comes to businesses what have you seen them successfully like put put in an 25:37 where they've put in an AI and it's just in just increased the profitability in a mad way like what's what the most 25:43 extreme examples there's no Silver Bullet fing you know there must be there must be some examples where it has 25:48 though like in terms of like not where it's put a silver bullet and save the whole business but where where you've put in AI to do a certain task within it 25:56 and it's just made the whole business more profitable yeah there's there's isolated cases a lot of it my one of my 26:02 students Isaiah um he's built a a incredible appointment setting system for for coaches and consultants and so 26:09 this setting part of the business is a a extremely painful there's a high high volume high frequency task and if we can 26:16 set up a system as he's done to replace these U this there's a high turnover and churn if you if you're working as a 26:21 coaching business you'll know that setting appointments VI DMS is probably one of the most mundane and boring tasks 26:27 imaginable so you get a high churn on people who come in um now in terms of a complete like a impact made on the 26:33 business replacing that particular role has been some of the the most impressive things that I've seen for businesses cuz it's okay this big burden that was on on 26:41 the back okay every two months someone's probably going to leave and I'm going to have to hire another cter and it's just as business owners we like to have all 26:46 the all the hatches button down right and knowing that something could pop up at any point um can be really awful and 26:52 so having these appointment setting systems that allows AI to set appointments for you and and wiping that rooll off entirely is probably one of 26:58 the highest Roi use cases that I've seen um I've also seen examples of uh these 27:03 AI voice systems that are popping up right now which I think are going to be absolutely massive I think they're going to potentially overtake the tech based 27:09 agents that we're seeing like chat gvt but these these AI voice systems um one example of a guy called SAR who is is a 27:17 friend of mine now and he also has a YouTube channel he set up like AI receptionists is what I I call them and 27:23 you can attach them to a static phone loan for a business so I think this case it was a HVAC company um for the client 27:29 that he was working with and this HVAC client he swapped out the phone line because he was getting calls after hours 27:35 he was sometimes they were calling him and he was busy and that he was missing a certain percentage of the calls that were coming into the business and what 27:40 he was able to do is is replace that phone line with an automated AI answering answering machine essentially 27:46 and every time a call comes in it answers hey look how can I help you this da what would you like to do and there's a couple different options that he 27:52 offers it might be okay I want to book an appointment or I'd like to leave a complaint or Etc you kind of have a bit of a home main menu um when they answer 27:58 the phone and this lad after you set that up obviously they can take calls at all hours it's maximizing the amount of 28:04 business that they can receive through that phone line um they saw a 20% increase in in leads um within the 28:10 within the first couple of weeks so might not be completely life-changing but that is just simply setting up a a small system in a business or repl this 28:16 phone line and when you think about how many businesses all over the planet uh can apply that that static phone line 28:23 with AI on the other end um there's there's really exciting use cases that are coming out I know and to get an and 28:28 you can get rid of so many receptionists by using that and it's probably my Mom's a receptionist so like I don't know if she's too happy about me me spreading 28:34 this stuff so yeah but at the end of the day like it's it's the most mundane job ever I think some businesses need that 28:40 human touch that you can get into afterwards but with the developments of language models in AI that I've seen 28:45 I've seen a whole podcasts now recorded where you know Joe Rogan and Elon Musk are talking to each other and you know 28:52 what it's rudimental but in a year's time it it'll be seamless like a year from now I think I think those language 28:58 models will have have so much data from like Elon and Rogan's podcast that the conversation would sound natural and it' 29:05 be be you wouldn't be able to tell the difference will AI be able to to 29:11 successfully like translate uh podcasters like me for instance or YouTubers like you for instance into 29:17 like change the language make us speak Spanish seamlessly and be able to put it overlay over our video make our mouth 29:23 move in the Spanish language tone but without losing our our voice and accent 29:29 do you know what I'm saying but but I think this I think this systems right now that you can you can do that with um I was looking into dubbing my stuff into 29:35 into Portuguese and into into Spanish to each more people um and I had some guys who were really eager to deal with me so 29:40 these systems do exist um and I think a lot of it's happening right now with short form content but it's the real 29:46 tricky part as you mentioned is the is the mouth moving so you can you can dub the I've seen myself dubbed into other 29:52 languages and it sounds like me me speaking Spanish or me speaking Portuguese or something but I haven't seen the mouth moving yet but I do 29:58 believe people are doing that yeah cuz I cuz I knew that they're not quite there yet because even when you turn on 30:05 Netflix or anything that dubbed you know it's not it's not they can't even get it right yet so the language models must be 30:11 getting refined to do that stuff quick one for you guys this podcast is sponsored by content removal.com as many 30:17 of you are probably aware I set up content removal.com in 2017 to help people remove all forms of online 30:24 content and I've looked after some of the biggest names and brands in the world doing it and I would love to help you if you're struggling if you're 30:30 struggling to remove images videos search results fake accounts or anything online go to content removal.com and 30:37 we'll help you today give me an example then of how people can use AI to get more leads cuz like most people in in 30:43 their business they think they need more leads this is the critical kital thing they think I need more leads it will solve everything we both know that 30:49 that's not the case but a lot of people want to understand how they can generate more leads from chat GPT and from the 30:55 basic language models available if they just starting out so is there any advice you can give on that M yeah there there's a couple different ways um one 31:02 of the sort of most popular ones at the moment a lot of the solutions that that guys in in my community are selling is 31:08 things like lead generation chat Bots and it might sound basic might sound Mandan but it's it's basically just 31:13 converting website visitors into into leads and that's kind of what your website's designed to do so if you can create a chat bot that whether it's a 31:19 widget in the bottom corner that pops up as soon as they they land on the page say hey this is this is Sandy from xyzz 31:26 business how can I help you today it's like oh I've just got a few questions about this if you can start that that conversation with them and and by it 31:32 really helps there's a setting you can do when you're building these Bots is to get it to open up automatically when the they land on the page people are getting 31:37 more and more used to interacting via chat thanks to chat GPT and things like this so there's a bit of consumer taste and preferences shift towards 31:43 conversational interactions with businesses and these lead generation chat Bots I I did a pretty cool example 31:49 on the channel um of a say if I was a Solar Company and I was selling solar panels and and installments uh I created 31:54 a chatbot for them which would well technically an a agent that's the sexy new name for them so chatbots have kind 32:00 of a an older more more basic U Association to it but these these AI 32:05 agents are really a lot more powerful and and I urge people who are thinking you can't sell a chatbot for $5,000 $10,000 to reframe it as an AI agent 32:12 because they're a lot more lot more advanced but um getting back I was saying uh this this solar chatbot agent 32:17 was uh equipped with a knowledge base based off the custom the the business's 32:23 services and offers so I I just uploaded a document and it could talk over and answer questions about what they sell 32:29 where they're from Etc any information that they need to know about the business before making a buying decision but then I also included a a lead 32:36 capture tool and I also included a solar roof uh a solar savings calculator into that as well so you can add these custom 32:42 tools which can be called intelligently through the conversation and what I prompted it to do is answer a few 32:47 questions and then if they seem interested offer to do a calculation of the solar savings for the year um based 32:53 off what was I was using the Google solar API in the background so I could take them their their address um and I think they're monthly pable and 33:00 I sent it off to a system that I built I was able to check their location get the size and shape of the roof and the 33:05 amount of sun exposure they get and then determine a a calculation of how much money they could save for the solar 33:11 installation shoot that back to them say hey look here's the breakdown of the different solar options you have here's how much money you could save would you 33:16 like to book and and call to one of our Specialists and this is inside 30 seconds this is happening yeah yeah yeah and and it's it's like it's really 33:22 awesome stuff I'd recommend if anyone wants to watch that it's it is I I was like coding the whole time so I was uh I 33:27 did template as much of it as possible but that's kind of what uh in terms of lead generation that's one of the one of the best options right now is a tool and 33:34 then a knowledge base as well how much can you use like the the language models that we have in order to generate the 33:40 code to be able to code are you generate are you generating the code yourself from your own knowledge of coding or are 33:46 you getting chat GPT and other language models to generate the code for you and then coding out the back end putting it 33:52 together yeah I uh I don't basically never have to write any code myself anymore as long as you know enough about 33:58 it and I I think if you take a a if you really want to get into the space you can do it uh without coding for sure 34:04 there there's plenty of examples of people who are doing that um but if you are struggling and you're having issues then taking a crash course on Python and 34:10 so that you can tell chat you as long as you can describe what you want and then kind of read what it is doing back um 34:16 then that can help you but what really has been the the Silver Bullet for people getting into AI which is what we've based this whole AI automation 34:22 agency model which which myself and my team have really created and coined um is that we noticed that you don't have 34:28 to be doing custom coding we were selling custom coded AI solutions for our clients for the first couple of months and then I was like I saw these 34:35 these chaper Builders bouncing around and I was like man let me let me at least let me just see if a client would care if I built it on that and so I went 34:41 in and and built it out on the on on a platform called bot press at the time uh we use different stuff now but I built 34:47 it out sent it off to him and he was like man this is great this is exactly what we wanted um so he got what he wanted um he he paid a whole lot less 34:53 and we were able to close clients to these no code platforms so uh when it comes to creating these Solutions what I was just talking about that solar lead 34:59 gen um while there is a the stuff that I did with the custom code in that build is now able to be done I could 35:06 completely do it end to end with no code to low code tools so that's what's really blown this AI automation agency 35:11 opportunity right open for for myself for um other people in my community for some of my friends as well is that you 35:17 don't need to have a a massive exper background in development to be able to help on these tools and start playing 35:22 around like you could you could go on and start making one for your business you could watch one one of my tutorials and go okay well I can take this I know Adapting to AI Technology for Business Success 35:28 what this little tool would be for my business and I know uh where I want my leads to go I can kind of just combine 35:34 them all together um and that might take a little while as someone who completely new but for someone like myself or or 35:39 other people in my community it's a it's a it's like a day to to build one of those out I know it's literally about 35:44 being curious I mean everything here is about the Curiosity to go and build this stuff for yourself and and this and this 35:50 all relates back to one once you automate this and once you've built these kind of systems they last so it's 35:57 like take away tasks in your business so essentially when you're looking at a 36:02 business like someone anyone on here that's got a business essentially the first thing you're looking at is how can 36:08 you automate it with AI before you bring in people that's essentially the way the framework you're looking at it for and can I build something out and if if it 36:14 takes me two days but gets rid of 20 hours a week of a person then I'm going to do that M yeah we're in a a tricky 36:21 phase right now of transition from these these custom code to low Cod tools um and AI service I mean some of the the 36:28 quotes that we hand out from my my agency are pretty eying and I'm surprised some people pck them in many ways cuz it's like this this is so much 36:35 money to be putting out but these guys really want the stuff to to be built into their business like to build custom 36:40 AI software um it costs a lot of money cuz the the developers we have to hire are are best of the best like they're in 36:46 such high demand right now the the rates for these AI developers are just going through the roof so um it's if you're Integrating AI Solutions to Stay Competitive and Create Value 36:51 looking to build these things into your business you can uh do a bit of an an audit we typically go for uh the highest 36:57 volume task first because volume usually equates to Value if there's a task that's been done a thousand times a month and we can automate one particular 37:05 part of that that's going to be far more value than if we did something that you do three times a week so usually we we 37:11 do audits with businesses and we'll start off with okay what are the highest highest volume and it usually ends up being on the prospecting side because 37:16 that's when you've got by Nature at the top of the funnel you got the most people right so um whether that's quotations or like conversations with 37:22 people like these lead generation chatbots if there's anything contract drafting things like this if it's like 37:28 uh policy analysis and things like this anything that AI can ideally I tell all my students is like look you're looking 37:34 for this this volume value Matrix or difficulty in value Matrix it should be easy to deliver but create a lot of 37:39 value and to do that it often means to be a simple task done thousands and thousands of times um so that's really 37:45 if you guys are looking to or interested in in getting AI integrated into your business uh do a sort of top uh head to Automating High-Volume Tasks for Efficiency and Value 37:50 toe analysis of of your operations and determine okay what are these things that we do all the time what are we doing across not just one person but the 37:57 ENT enire team and in one one Department um and how can we just make one small tweak there and it will save us dozens 38:04 of dozens of hours a week I mean from what you're saying I think even having a document on Google Docs that just simply 38:10 says lists out your tasks and then has um in a in a in a world in a like in a 38:17 companywide document and then literally having the prompts the the the Frameworks of every prompt that you use 38:23 to do those tasks listed in a in a in a sequential sequence that they can just access from anywhere and just use chat 38:30 GPT to start even if you just had that centralized document and had these prompts for all of your staff to use 38:36 relevant to the relevant tasks that would still speed up things a lot at the basic level before you even start to 38:42 automate yeah cuz then I suppose you can see from once you've done that and you've systemized that you can see which is worth automating further in terms of 38:49 making it so like push button from inside your panel for I would say yeah we are in a little bit of a diff 38:55 difficult spot in the in the adoption of the stuff at the moment because a lot of the solutions that my my students who 39:01 are starting their own AI agencies who are what they're selling they might be selling for the first time or the first couple of times there's so many people 39:07 in this sort of broad base of people starting AI agencies now where it's only I talk a lot about the technology 39:12 adoption curve you you may be familiar with it where there's innovators early adopters early majority late majority and laggards so every technology gets 39:19 adopted in a in a sort of bow curve shape we are in the early adopters phase right now where people like yourself and 39:24 myself like wow this is really interesting technology I can see the potential and I'm I'm not too concerned 39:29 about it being like ultimately pragmatic and and making 100% sense of the business I'm more interested in being on 39:35 the front foot and giving the thinging a chance to see what it can do so you you're nodding CU you're like yeah absolutely well at the end of the day 39:41 right AI is coming whether I like it or not I have to approach the dangers of it on here and I asked you about the 39:47 dangers of it because at the end of the day other people are worried about that me personally it's like well it's coming 39:52 regardless of whether there's dangers or not it's coming and it's coming at a rate down the pipe that see that I 39:58 already know because because we removed content and I see how Google's used AI for years before it came out to the 40:03 public domain I see how far Advanced we are down the AI Road Way Beyond what Using AI to Streamline Processes and Improve Customer Experiences 40:09 we're what we see in the public domain I I see that and H and I see how Quantum Computing is put on when you match 40:17 Quantum Computing with AI at the level they've already got it at it's already over like you you can you The 40:23 Replacements that I see in the narrative that's going to happen is unbeliev unable so for me as a business owner and 40:29 you as a business owner it's like why wouldn't we use it right now we have to we got no choice basically and that's 40:34 why I wanted you on here to talk about AI because I don't see any any of anyone that's listening to this podcast that's 40:40 got to this point you have to use AI if you've got a job you have to use AI to make your job more efficient to keep 40:46 your job if you got a business you have to use it to make uh more leads more money um more volume be more competitive 40:53 on your pricing perform better outputs for your clients simple as that regardless of of whether you like AI or 41:00 not that is that is the realm I'm playing am I going along the right curve yeah yeah I mean as I was saying it's 41:05 it's like people like ourselves are these these early adopters and makes 100% like yeah I'd rather be in the on 41:11 the front foot than on the back foot but there's this they call it cross in the chasm and they have to jump across from the early early adopters to the early 41:17 majority and the early majority of the people were sort of a little bit further behind than us who are like okay I want to see I want to see how this is this 41:24 makes sense for my business I'm going to wait and see for people to do well with this um but they're they're going to get 41:29 their they're serving they they'll be all right but it's us as early adopters right now who are taking gambles on these AI solutions that people uh like 41:35 myself are kind of discovering and and popularizing through my channel and then people in my community go on and start selling that on on to other people um 41:42 but we are I I still yet to see uh the data come back from a lot of these 41:47 Solutions so okay yeah I've built this I've done this okay what is it what's the impact over 3 months how can I like measure the input and I tell this all 41:54 the students as well look when you are selling these solutions for the first time get the initial initial recordings and and data initially so that you can 42:00 then two months later or when you finish delivering the service say hey look I'd made this people want to see I want to 42:06 see this tangible Roi that we got 20 like the example I gave 20% more leads through the phone that kind of 42:12 information is so key and that's what you need to jump from early adopters and selling these solutions to people who kind of just take a that sounds cool 42:18 [ __ ] it let's do it to jumping over to I'm a I need I need some data on this I need to see that this is worthwhile for 42:24 me to even consider yeah it's uh it's a it's a big jump to a big gap to jump uh 42:29 but agency is definitely getting there at the moment would you start though I mean I'm just thinking out out the box Elm like would you start on anything 42:36 Revenue generating activities first it's like rather than service-based activities so what I'm saying is if if 42:42 you look at content removal as an agency would you wouldn't you start with my um 42:48 something AI that generates more leads and more business and more money at the front end rather than automating the 42:53 back end or would you start with the back end first and then go front end um it's a good question uh I think for and 43:00 it depends on on completely on industry um like you like you just said in your case if it's if there are Service 43:06 delivery aspects of your business that are by Nature easy or or accessible for these 43:13 language models to to assist with um which in your case if it's content U there's if as long as you can convert 43:19 the video to to to transcripts and you can pull the information in as text from wherever wherever is posted online then 43:25 AI is excellent at helping with that that stuff but if you're a plumber and your service delivery is fixing toilets 43:31 you focus on the lead side right so it is a there there sort of generic things you can do across uh across the the 43:37 acquisition side of things like lead how to generate leads with the chat Bots like I mentioned then also analyzing sales calls and things like this there's 43:43 a bunch of systems like that that you can do see why I wanted to ask those questions specifically was because I wanted to to you to show the audience 43:49 which you just have is like okay if you've got an online business like you're in you're you're whether you're an Ecom or whether you're a service 43:55 based business like content removal you can you can use AI at both ends of the business in those businesses I think 44:01 and and throughout your business and it works perfectly but if you are the plumber if you are the carpenter if you are the mechanic you should 100% look at 44:08 implementing AI into your top of funnel like you know how how can we be reaching Building a Personal Brand and Creating Content to Attract the Right Audience 44:14 out to more clients how can we be cold emailing using using these funnels how can we how can that a AI generate us a 44:20 list of leads um and insert certain information into email fire emails how can it reply to emails all this kind of 44:26 stuff is what what I would be looking at to generate more money and more lead flow into the business without spending 44:32 on ads is that kind of how is that would that be a good I mean I think it's definitely a case of we need more people 44:38 selling these Solutions and and so that these plumbers can go to or or plumbers can get reached out to because they 44:44 don't they they have no clue but they can benefit from the stuff like if you have an invoicing or quoting system or 44:49 if you have a a WhatsApp chat but like WhatsApp is such a huge use case and you can build in a couple buttons you can you can have a couple functions and 44:55 tools and you can put a WhatsApp chat on any business basically especially if it's if it's non- American cuz they don't they don't really like WhatsApp 45:01 that much but there's so many use cases and it's really just the case of I've been trying to sound the alarm on this 45:06 opportunity and I was fortunate enough to kind of stumble across it through my own starting off on YouTube then going into Consulting and then starting a 45:12 development company because I want to make more money off my Consulting calls and then eventually realized I could sell those through lowco platforms and 45:18 there's so much opportunity here and I I I can wholeheartedly say I wouldn't be doing what I was doing in terms of the education stuff that I was doing on the 45:24 side if I didn't believe that this opportunity to sell these AI solutions to businesses wasn't the the biggest thing right now in the space of online 45:31 business and not only is it isolated in that you can make money now in the short term it has by far you try to name any 45:38 other online business model that has better long-term prospects and I'm not just selling the dream here I'm only I'm so passionate about this because I think 45:44 a lot of people are jumping into Old vehicles that don't offer the upside that things like AI agencies do because if you build a development team like I 45:50 have you build cash flow like I have me and my team you build a a a network of distribution as well you now have the 45:57 means to shoot at any opportunity in the AI space I've started my own sets because I had development resources I 46:02 identified a problem within the market from working with my clients you are are setting yourself up for such bigger opportunities than if you were just 46:08 doing an e-commerce store what are you going to do Exit A Drop Shipping Store like that's that's the end goal if you start Drop Shipping or you might 46:13 transition into a brand and how many people get to that end point of of exiting their brand I know it might be the same with SAS but you can having AI 46:22 development resources right now I can I can attest from my experience everyone wants to talk talk to you because you're 46:28 the guy with the resources to make the difference in their business because there's so much value in being able to provide these solutions to businesses so 46:34 if you're looking to get into online business or or anything at least consider the upside of having AI development resources cash flow and 46:40 ideally you have some kind of personal brand backed off the back of it as well yeah yeah I I like the way you've you've how how big has this personal brand been 46:47 for you I mean I I was the the 46:52 quintessential uh online business jump around a guy like I did the I did Ecom and I made money there and that was how 46:58 I made my first 100 Grand as I think I was 19 so I was I thought I was pretty fly um and then I then I started working 47:03 for my business partners marketing agency and sort of further the uh the skill set there um but I didn't see 47:09 explosive results and and and my own and changes in my personal life until I decided to start the YouTube channel and I never I I remember when I was young I 47:16 swore I was like man I'm never ever doing YouTube because you see the people back back in the day who would do it for 5 years and still get 10 views I said 47:23 that is just not something I'm willing to to to bet on and put put that much time into but I saw that there was an 47:29 opportunity and I said look you're going to have to change your beliefs and give it a dig and within 8 months I'd got 47:35 100,000 subscribers from starting and now we're at we just H 200,000 I think yesterday or the day before it's it's 47:41 interesting because a as a young man I'd say that you're doing really well in life and you just said something there that's so pivotal to everyone who 47:47 listens to this it's I had to change my beliefs so what framework and what 47:52 things did you use and tools did you use to change your internal beliefs so that you could access this new level of 47:59 thinking because I think this is important we can talk about Ai and the possibilities of AI but if you're Measuring Impact with the Right Metrics 48:04 mindset isn't right if you don't have the uh the the opening in your in your you know mind to be able to look and see 48:11 this opportunity you will shut it down real quick so how have you done that I think it's it's just as you said it's openness like I I've always very firmly 48:19 held I don't know if it was my dad telling me that uh like you don't know [ __ ] from Che dates was what he always 48:24 used to say um but uh I've always tried to be very very I guess it's having 48:30 humility and and what I know and being open to changing I understand that I think it's a it's a reaction in myself 48:36 from seeing so many people in the online business space you saw the guys who made all the e-commerce money and were just obnoxious and awful about it and I saw 48:43 those guys and I said man and you saw the Horizon fall as well and so I have a very clear example of how not to behave 48:48 and how not to have longevity in the space which is ultimately what I want to have and for me to come in and and be 48:54 fixed my beliefs by the time I was 22 like that's that's I'm I'm much more open to to new things and and speaking 49:02 to people like yourself and anyone older than me he's got more experience so I guess it's just keeping keeping my eyes open as much as possible and not uh 49:09 falling victim to the pattern set by people before me I think in the in the in the online business space it's so 49:14 easy to fall into the stereotype of the guy with well first it was the lambo and the skinny jeans and now it's the now 49:20 it's the I guess it's still a Lambo but you have like the Laur Pian like there's there's different pockets of things that 49:25 people fall into there's there's two two there's two types of um we were talking about this with James Blackwell the other day there's two types of 49:32 entrepreneurs that you see in Dubai or fit the Dubai Miami type influencer PE 49:37 Persona or the online Persona so to speak you've got the the wannabe IM man gads and then you got the wanabe Andrew 49:43 Tates you got the the and you got the wannabe Andrew Andrew and Tristan Tates that that wear a suit but look [ __ ] in 49:49 the suit and that's not their style and then you got the one of me Iman gazi now Iman looks great in his style and 49:54 obviously know him well H but that's his style I can't wear that style and neither should I try you know what I 50:00 mean so you what I what I see from the online space is like so many people trying to be someone else why don't you 50:06 try and be the best version of yourself and that that is the kind of that is the the whole problem in in in a nutshell 50:13 it's the the same conclusion that I came to and it's it's an interesting thing that I've realized recently I suppose it 50:18 means I'm getting a bit older and potentially a fraction wiser is uh I I had if if you guys knew me before I had 50:24 an Instagram that was fairly typical I traveled a lot as soon as I started making my e-commerce money I was able to 50:29 sort of travel and and basically live overseas as soon as I was like 19 um and 50:35 just grinding on the businesses sometimes they were going terrible sometimes they weren't um andan it was we weren't living on much money at the 50:40 time but I realized that I'd stacked up this Instagram filled with all these photos of me like shirtless or or like 50:46 I'm I'm traveling I'm doing this this this I'm looking like the guy and it was like a really nice set of photos I like 50:52 I got compliments I was like well you got cool photos and then I realized when I deleted them and people like oh why did you delete them I thought I don't 50:58 want to be I realized that I was getting grouped into into the people that I didn't want to be with and anyone anyone who knows me knows that I'm not I'm not 51:04 I'm I'm not the person that I was portraying on Instagram and when you apply that to sort of all areas of your 51:09 life I realized that I was using the I was trying to attract certain things in my life maybe woman or opportunity or uh 51:15 or just friends as well but I was using the wrong bait and now I have this thing that I always say wrong bait wrong fish 51:20 so if you Ed the wrong bait or wrong lure if you want to use a fishing analogy but wrong bait wrong fish and I think it can be applied to so many 51:26 things so now I deleted my entire Instagram feed and I thought look if I'm trying to attract a certain type of 51:31 woman or I'm trying to attract certain type of friends or opportunities or mentors what are they going to I want 51:37 them to look at my thing and see me for who way I really am that's a complete waste of my time if I'm going to pretend 51:43 to be someone who I'm not and then attract the wrong people and repel the people that I want to and then when they meet me I'm not even that person in the 51:49 first place so it's just a completely stupid way of doing things so I've deleted everything and now I just post 51:54 videos of me talking sharing stuff that I like or I like to have big long descriptions of my my images of saying like this is 52:00 what I've been doing I'm being really open about it so that's a big change that I've made to try and be more more transparent and look if if you like me 52:07 you'll be attracted to me for me and I'm hopefully attracting the right people into my life yeah that's congruency I 52:12 think I think to get that you know early on in your life is so important because 52:17 most I would literally say 75% of the people that I see on Instagram are 52:23 carbon copies of other people carbon like there's podcasts out there that just podcast all the same guests as me 52:30 but the conversations are different because and the the reasoning behind them having a podcast is different I actually want to make an impact to 52:37 people's lives that listen to I actually want you to win like if you go and just carb and copy the podcast and book the 52:42 same guest but don't have the similar conversation it's not it's not really the same is it so just find find out who 52:48 who you are and do the work on finding out who the [ __ ] you are like critically who you are like get really in the weeds 52:54 with it you know who you are who you're not and then turn up as that person and when you turn up as that person and accept Leveraging AI to Stay Ahead of the Curve 53:01 yourself fully I think you can do the do and operate the way that you're saying but like you say imagine going through 53:06 your whole life putting out the Instagram feed in this way because everyone else is and and it's not you 53:12 it's like wow man like and then they wonder why they're not getting what they want out of life it's like you're 53:17 attracting the wrong stuff like it's it's it's so seems so clear to me now and I hope if I can give this to any 53:22 young people younger than me I'm 23 years old so I don't I fully understand that I don't know [ __ ] and I'm I'm it's 53:28 so obnoxious when people who are have got to maybe my point in life you made a bit of money now now I have a YouTube 53:33 channel and a bit of a following to think that I can speak on all these topics but like at the end of the day I've Gotten Good at one little thing 53:38 which is selling AI solutions to businesses and so if you come into my topic on that I'll probably contest you 53:44 on on things CU that's what I feel like I specialize in and I know but if there's anything outside of that I'm all [ __ ] ears like it all is to anything 53:52 if you've got advice on relationships on life on travel on anything um I'm I'm all especially when it comes to business 53:58 as well when when I met you I like the maturity of how you approach life you know for a young man who's doing well 54:03 who's earning good money who's built a great team who's built a great system I don't think age matters anymore like I I 54:09 I speak to like video editors for me that come to me that might be 15 16 years old come to me vi the Instagram 54:15 DMS phenomenal phenomenal guys just know it it does regardless of whether they 15 54:21 sat in their mom's basement in aaban that really doesn't affect the way that 54:26 we do business today it's like can you are you the best at your art do you care are you crafting something this is what 54:32 I want every 39y old or 45 olds listening to this podcast I understand age doesn't matter it doesn't even 54:37 matter that you're 39 or 45 you don't have a disadvantage you should if you're actually if you're 39 or 45 listening to 54:44 this you've got an advantage the advantage you have is wisdom you've been in the game long enough it's just about having the aptitude to go you know what 54:52 I'm I'm an old dog that can learn new tricks I'm not I'm not going to be I'm not just going to keep running my franchise the same way and expecting the 54:58 franchise to hand me leads uh franchise to hand me leads I'm going to I'm going to create a new way in AI to put into my 55:05 franchise I'm going to create a new way as a plumber to get leads from AI you know just a different way of thinking 55:10 isn't it yeah what you're talking about is actually exactly the kind of strategy that we're recommending to people we're thinking of even pivoting part of our 55:16 offer on the education side to be specifically for like turn your expertise into a career in AI or cuz 55:23 it's it's when there's young people like myself coming into it or people who have have no experience or they may have done a bit of smma or something before you 55:29 don't have domain specific knowledge or understand what an area needs so if I if 55:34 I try to go and sell things to uh to plumbers and I I've never stepped foot in a plumber I've never even spoken to a 55:39 plumber in my life how am I going to know I can take guesses and take Jabs and and probably iterate my way towards success if I have enough conversations 55:46 which is what I recommend to our students uh but that's no no no replacement for if you're a plumber and 55:52 you take a COR or or you absorb a bunch of information you go okay I want to build these AI solutions for like it's a 55:58 much more scalable and profitable vehicle to sell AI solutions to Plumbers than to do plumbing work so if you can 56:03 convert I've seen this to everyone out there if you have a particularly if you have a LinkedIn Network and you have a big following and a big extensive 56:09 network you've built up like like you said if you're 40 and you have this huge Network okay what AI offer can I sell to 56:15 these people and that's so we're seeing so much success with this at the moment is okay I'm going to get I'm going to 56:20 find a few key Partners I'm going to partner with maybe a development team or I'm going to hire my owner I'm going to to to work with people in and in like my 56:26 free community or my paid community and get them in and say I want to build a AI solution that serves these people and 56:32 using my network I'm just going to roll this thing up and like that is really the opportunity that we're we're trying 56:37 to get out there as well which is yes if you're looking to get into AI online business this AI agency vehicle is one 56:43 that may be difficult initially but it has has the legs long term you can bet on the thing for 5 years and for someone who was doing e-commerce and doing smma 56:50 and these things I'd never it was cool like it was cool to to run ads and see the number go up but it wasn't like I'm 56:57 building an AI development company of cool people and we have cool clients who come back to us because they love the work we do and we're building really 57:03 cool relationships and it's the by far the coolest thing I've ever done in my life and I wish other people who are 57:08 getting into AI online business could get to that point as well we just being so proud of what they're building and you can bet on it it's the Allin aspect 57:14 that's for me that I can be I'm here for 5 years I'm here for 10 years and I don't know I don't need to change there's no everyone always wonders if 57:21 the vehicle that they've chosen are they too late to it e-commerce smma these things am I late to it well yeah the 57:27 people are telling you to start it probably got started 5 years ago and now you're trying to jump on the coattails of it so you can tell I'm pretty 57:32 passionate about this you know not 100% And I just want to give so that so that everyone that listens to this podcast 57:37 has zero excuses this is the way that I want you to think whether whether you're a girl that's got a na Tech business you 57:43 can be the girl that brings leads to na Tech businesses using AI if you're a plumber out there or a carpenter or a 57:49 builder and you're a lad and you want to change your life you can be the you can be the AI guy that brings and has the 57:55 knowledge that br brings leads to those businesses you know there's girls out there that are phenomenal eyebrows 58:00 tattooed eyebrows be the girl that uses AI to bring leads to the tattooed 58:05 eyebrow girls um however you want to do it there's so many ways just take your existing knowledge and think okay I can 58:13 only work within this business swapping time for money to a certain cap use AI 58:18 to create leads for other women that want to do the job that you're doing anyway because you might have a following of say 10,000 women on your 58:25 Instagram account that want to do tattooed eyebrows right we just help them find the leads that want tattooed 58:31 eyebrows and use AI to do it and then you're now an AI prompt engineering girl 58:37 who's got this really scalable model that brings uh Beauty service business's 58:42 leads you know because you expand out from tattooed eyebrows you expand into other niches a into end like AI solution 58:48 package for I mean that's what we say do just just solve one Niche problem and then just try to expand out from it what's the next thing that they what's 58:53 the next problem that they face yeah and it's it's it's such a big opportunity in like there's so much so much UNCA 59:01 potential in this world when you actually break it down what what am I missing though what what question 59:07 haven't I asked you today that I should have asked you that you can expand on that you know what is it I don't know I 59:13 want to know what it is I don't know Liam I think for people who are interested in what we've just been talking about it's okay how do I start 59:19 and that comes down to not buying my course or buying the like I'm not just going to give you the Hard Sell here but 59:24 it's you need to get the information like as you said if you're in the nails 59:29 industry or you a good example is the the tattoo I like to use which is okay 59:35 what's a solution that I can create for tattoo pars I can create a WhatsApp chat bot that has a knowledge based maybe it 59:41 has a main menu where it says okay book and a book and a service or uh meet our 59:47 meet our artists is a big one of course with tattoos you don't want to you want to see who who he is and or who he or she is and and what their background is 59:53 um and then you might have U create a design and so you can build these features in where they can book in they 59:58 can also get to know the artist they can also generate images not even just"
+    },
+    {
+        "time": "1:00:04",
+        "words": " examples you can use AI image generators connected into it as a feature and you can say hey can you like for me I have a"
+    },
+    {
+        "time": "1:00:09",
+        "words": " dragon and I needed to put some flames on it to make it look extra cool so the guy had to go and sketch this thing up in the shop and I was sitting there for"
+    },
+    {
+        "time": "1:00:15",
+        "words": " hours if I could just go on Via WhatsApp and say hey give me a dragon and put some flames on it and then it would send"
+    },
+    {
+        "time": "1:00:20",
+        "words": " it back and I go cuz it's just using an API to generate a an image right and it can pull it back in a tattoo style"
+    },
+    {
+        "time": "1:00:26",
+        "words": " it's so easy fairly easy setup to do and you pull it in they go how do you like this oh can you please change it maybe"
+    },
+    {
+        "time": "1:00:32",
+        "words": " put some put some uh put some stars on it and you can go back and forth and come up with a like that kind of package"
+    },
+    {
+        "time": "1:00:37",
+        "words": " and solution is fairly straightforward to do and creat so much value for both the customer and the business that's all"
+    },
+    {
+        "time": "1:00:44",
+        "words": " you need is is given your different Industries you just need enough knowledge to come up with that and take that WhatsApp formula and and apply it"
+    },
+    {
+        "time": "1:00:50",
+        "words": " to any business that you are or any area that you're interested in and that's usually a good place to start WhatsApp is such a great deployment option for"
+    },
+    {
+        "time": "1:00:56",
+        "words": " the for these systems um voice agents Etc so it's the question is if you're trying to start how can you get enough"
+    },
+    {
+        "time": "1:01:01",
+        "words": " exposure to these ideas be it by watching YouTube videos or whoever so that you can start to connect the dots and say oh [ __ ] like these are the"
+    },
+    {
+        "time": "1:01:08",
+        "words": " things I can build these are the these are the opportunities that are available in the AI space right now and that's what I try to put out through my channel"
+    },
+    {
+        "time": "1:01:14",
+        "words": " as well it's just like get as much exposure out rather than me trying to work one-onone with people is just I'm going to BU share volume get as much"
+    },
+    {
+        "time": "1:01:20",
+        "words": " information as possible and let the smart people figure it out and everyone else can kind of jump on the Cod yeah and it's so easy to get this information"
+    },
+    {
+        "time": "1:01:27",
+        "words": " for free as well like it's it's not like you know if they want to get more advanced they can also buy the solutions"
+    },
+    {
+        "time": "1:01:32",
+        "words": " and stuff like that but at the end of the day you can get all this information for free you don't even need that essentially and there's so much demand"
+    },
+    {
+        "time": "1:01:37",
+        "words": " for the information as well so if you want to follow my exact blueprint the reason I was able to get 200,000 subscribers in like 14 months it's"
+    },
+    {
+        "time": "1:01:45",
+        "words": " because there demand for the stuff people like as I talk about this more and more of there's this opportunity here more people are coming and"
+    },
+    {
+        "time": "1:01:51",
+        "words": " searching different things up I can't make all the videos myself I need I've made a group of YouTubers in the AI space to help me get this message out"
+    },
+    {
+        "time": "1:01:57",
+        "words": " and and sort of scale the output of the tutorials that we do but if you want to create a personal brand if you want to get in on it you can become the expert"
+    },
+    {
+        "time": "1:02:04",
+        "words": " not only are you going to be selling it to nail salons or whatever start talking about the nail salon Solutions you're"
+    },
+    {
+        "time": "1:02:09",
+        "words": " doing and you'll attract more people to it so there's so much demand for this AI stuff right now if you make content share it on LinkedIn share it on YouTube"
+    },
+    {
+        "time": "1:02:15",
+        "words": " build a personal brand you would just attract like a magnet and and see incredible results as I have and you and"
+    },
+    {
+        "time": "1:02:20",
+        "words": " you can literally do it from whether you're the go in the nail salon the carp"
+    },
+    {
+        "time": "1:02:25",
+        "words": " yeah exactly it's democratized it's democratized you you can literally be anything I could I could be the expert"
+    },
+    {
+        "time": "1:02:32",
+        "words": " in podcast AI inside 12 months using that exact same formula you know because"
+    },
+    {
+        "time": "1:02:38",
+        "words": " there's no barriers to entry with this none at all that's that's I mean I that's why I can say I'm an expert in the stuff despite not having 10 years of"
+    },
+    {
+        "time": "1:02:45",
+        "words": " AI experience if you go into marketing you got Russell Brunson 20 year like these guys there's no way you're going"
+    },
+    {
+        "time": "1:02:50",
+        "words": " to get to experts take like 70% of the market [ __ ] right they just soak it all up you can be an expert in real estate"
+    },
+    {
+        "time": "1:02:57",
+        "words": " there's still no AI expert real estate guys that are very B that every single is you can think of probably the one"
+    },
+    {
+        "time": "1:03:02",
+        "words": " that you're on right now if you're listening there's no AI expert in there I'm kind of a bit more General so you not you won't be competing with me you"
+    },
+    {
+        "time": "1:03:08",
+        "words": " can go in there and say I built this this this this this and and this is kind of the Strat strategy we're rolling out to our students and and within our our"
+    },
+    {
+        "time": "1:03:14",
+        "words": " program is personal branding is the way to attract the early adopters to you rather than trying to sell the guys who"
+    },
+    {
+        "time": "1:03:19",
+        "words": " were never going to want AI for another 5 years you need to get your foot in the door by selling to early adopters the only way to attract early stop this to"
+    },
+    {
+        "time": "1:03:26",
+        "words": " your business or find them is to create content that they are looking for and then you can start to sell those build your product and then when the early"
+    },
+    {
+        "time": "1:03:31",
+        "words": " majority comes and you can bridge over to the larger part of the population you have the foundation to succeed and make the most M money and YouTube like you"
+    },
+    {
+        "time": "1:03:38",
+        "words": " say is the best platform to build on because it's got search ability it's a search engine it ranks well in Google"
+    },
+    {
+        "time": "1:03:43",
+        "words": " and you know bu it builds trust and your best buyers are off YouTube anyway in terms of like buying your services and"
+    },
+    {
+        "time": "1:03:49",
+        "words": " buying longtail stuff you can Rank and if you create Evergreen content like what you're creating every video that"
+    },
+    {
+        "time": "1:03:55",
+        "words": " you create is green like they they're searchable they're Long Key tail words um they're searchable forever and ever"
+    },
+    {
+        "time": "1:04:01",
+        "words": " and ever in a day so they'll just keep as as you are riding a wave where the AI search term is getting more and more"
+    },
+    {
+        "time": "1:04:08",
+        "words": " searched month over month week over week year over year so of course you're in a"
+    },
+    {
+        "time": "1:04:14",
+        "words": " in a market where you can't fail to get subscribers you could you could be [ __ ] half as good as you are now and"
+    },
+    {
+        "time": "1:04:19",
+        "words": " still be on 100K anyway so it's like why wouldn't you take the opportunity to do that and that's and that's something"
+    },
+    {
+        "time": "1:04:24",
+        "words": " that's available to all of you that listen to this yeah I think one thing that I'm learning at the moment as well and I think it'd be good if anyone's"
+    },
+    {
+        "time": "1:04:30",
+        "words": " looking to start YouTube uh particularly YouTube is that you don't need massive numbers to make a lot of money there's"
+    },
+    {
+        "time": "1:04:36",
+        "words": " dudes who get 500 views but a few 20 of those are potential clients like I'm used to to making big videos that get"
+    },
+    {
+        "time": "1:04:43",
+        "words": " like I don't know some of them got like half a million getting near to a million views on on how to start AI businesses and how to build AI stuff and I was kind"
+    },
+    {
+        "time": "1:04:49",
+        "words": " of falling into the Trap of thinking that's the only way to do it and that's how I should grow sure I grew quickly but I think I could be ner ing a far"
+    },
+    {
+        "time": "1:04:56",
+        "words": " more high quality audience of agency owners and also business owners who I the business owners who I sell my my"
+    },
+    {
+        "time": "1:05:01",
+        "words": " morning side solutions to and the AG agency owners who I can help with with my education program as well so don't"
+    },
+    {
+        "time": "1:05:07",
+        "words": " fall into the Trap of thinking that the the numbers and the subscriber growth and things like this is what's going to determine your your the value you create"
+    },
+    {
+        "time": "1:05:14",
+        "words": " how many appointments are being booked how many link clicks are happening from your YouTube over to your your landing page those are the metrics you should be"
+    },
+    {
+        "time": "1:05:19",
+        "words": " looking at and optimizing towards cuz you only need an audience of a th people I I I I agree Cu uh quality man a guy I"
+    },
+    {
+        "time": "1:05:28",
+        "words": " know called William Brown you probably know him as well he he made one video he did like I think a bunch of stuff"
+    },
+    {
+        "time": "1:05:35",
+        "words": " recently I think he did like 50 one did 50k and and he sold like 120,000 us of"
+    },
+    {
+        "time": "1:05:41",
+        "words": " stuff off the back of the 50k video another video did 400k I think he's done probably about near on 1.5 million out"
+    },
+    {
+        "time": "1:05:47",
+        "words": " off the back of that video when you when you have the Right audience and when you build in your true authentic light you"
+    },
+    {
+        "time": "1:05:54",
+        "words": " attract the right people with you anyway similar way that build this podcast I've built slowly super"
+    },
+    {
+        "time": "1:06:00",
+        "words": " slowly but the audience is strong you know it's a real audience and not many podcasts have any real audience they're"
+    },
+    {
+        "time": "1:06:07",
+        "words": " mostly Juiced up numbers fake views all that [ __ ] whereas what you're saying is"
+    },
+    {
+        "time": "1:06:12",
+        "words": " 100% true and I know this from Myspace when you build a loyal audience and you actually try and give them value and you"
+    },
+    {
+        "time": "1:06:18",
+        "words": " actually turn up and do that yeah the audience you're building is valuable you know you got we got I've got people that"
+    },
+    {
+        "time": "1:06:23",
+        "words": " listen to this podcast do 100 million a year more so you don't get those type of listeners on the mainstream podcasts"
+    },
+    {
+        "time": "1:06:29",
+        "words": " that do all the the the fear mongering and all the crap that I don't want to do yeah that's getting bad man so so so you"
+    },
+    {
+        "time": "1:06:38",
+        "words": " what I'm essentially saying is you're 100% right in what you in in five and not all views are the same another"
+    },
+    {
+        "time": "1:06:44",
+        "words": " example of this is zarak the direct response copywriter guy that owns can't think I can't think of his his firm's"
+    },
+    {
+        "time": "1:06:51",
+        "words": " name but he's smash he's smashing it on YouTube as well because small following 7K or 10K followers or something like"
+    },
+    {
+        "time": "1:06:57",
+        "words": " that but just videos get like 40 50k views he only got three videos but it's just the quality of the information that"
+    },
+    {
+        "time": "1:07:03",
+        "words": " you put out and the relevance of it and the strong personal brand he'll do he'll do million dollars out of those three"
+    },
+    {
+        "time": "1:07:09",
+        "words": " videos because of the because of his client base yeah I mean it's it's an easy trap to fall into and I it's an"
+    },
+    {
+        "time": "1:07:15",
+        "words": " interesting one because as a as a Creator um it's a it's projection as"
+    },
+    {
+        "time": "1:07:20",
+        "words": " well so if if I am concerned about My Views videos not getting many views cuz I think it looks bad it's because I'm"
+    },
+    {
+        "time": "1:07:27",
+        "words": " that's what I think about when I look about other people so okay this guy has x amount of subscribers and he gets this"
+    },
+    {
+        "time": "1:07:32",
+        "words": " amount of views if the reason that only bothers me and and that I'm afraid of doing that is because I'm projecting it"
+    },
+    {
+        "time": "1:07:39",
+        "words": " onto you know like it's reflecting back at me um that because I'm judging other people for it I'm I'm scared of being judged whereas other people might not"
+    },
+    {
+        "time": "1:07:45",
+        "words": " judge me at all and I should really be measuring off the impact that I've I've got on on the core people that matter if I can get 10,000 people watching my"
+    },
+    {
+        "time": "1:07:50",
+        "words": " videos consistently then I'm really helping that's far better than doing the I mean you disservice to your audience"
+    },
+    {
+        "time": "1:07:56",
+        "words": " when you try to as a as a Creator go Broad and make okay how can I package this video down to the lowest common"
+    },
+    {
+        "time": "1:08:01",
+        "words": " denominator so that I can like I've gone really really basic on some of these videos and they get the most views of course they get over half a million but"
+    },
+    {
+        "time": "1:08:08",
+        "words": " if I make something that's really tailored to my my core audience and the people who I really want to help and like I said if I can create these AI"
+    },
+    {
+        "time": "1:08:14",
+        "words": " entrepreneurs and and as as as many of them as possible that's how I can have the best impact on the world I should"
+    },
+    {
+        "time": "1:08:19",
+        "words": " just be focusing on the co audience and not worrying about the not worrying about the views you know like it's it's really I think as humans we get wrapped"
+    },
+    {
+        "time": "1:08:25",
+        "words": " into this views views views algorithms algorithms like at the end of the day I was I was thinking about this in short"
+    },
+    {
+        "time": "1:08:32",
+        "words": " form content and I was telling you about this the other day it's like I looked at it we got 16 million short form views"
+    },
+    {
+        "time": "1:08:38",
+        "words": " across Tik Tok YouTube YouTube Shorts Facebook reals and Instagram reals right"
+    },
+    {
+        "time": "1:08:44",
+        "words": " but but when I looked at the analytics of the podcast and how that correlates to the growth the audience my growth is"
+    },
+    {
+        "time": "1:08:50",
+        "words": " still very steady on on on the on Apple and Spotify specifically not you YouTube YouTube's obviously growing more from"
+    },
+    {
+        "time": "1:08:56",
+        "words": " the back of that content and you actually have to ask yourself you know what actually really moves a needle is"
+    },
+    {
+        "time": "1:09:02",
+        "words": " it is it is it is it that you know or is that just a vanity metric are you spending money on vanity metrics rather"
+    },
+    {
+        "time": "1:09:08",
+        "words": " than spending money on what actually really moves needle and you've always got to question yourself whether on what"
+    },
+    {
+        "time": "1:09:14",
+        "words": " path you're getting pulled down as an entrepreneur every single time yeah I think it's it's purely comes down to"
+    },
+    {
+        "time": "1:09:20",
+        "words": " those kpis if you're measuring the wrong thing like for me long Tong as subscribers was the the number that I was focus on so I did everything to when"
+    },
+    {
+        "time": "1:09:28",
+        "words": " when the number didn't go up as much as I thought that's okay I need to change the inputs but now that I've sort of"
+    },
+    {
+        "time": "1:09:33",
+        "words": " shifted away from okay what's the I've got 200 I don't need any more [ __ ] subscribers like that's not that's not"
+    },
+    {
+        "time": "1:09:38",
+        "words": " something that's going to change am of impact I created on the world if I needed it for Authority I've got Authority now 200,000 is a lot of people"
+    },
+    {
+        "time": "1:09:44",
+        "words": " now I can work back from there and say okay what's the what's the new kpi that I need to look for is it appointments booked is it link clicks off YouTube to"
+    },
+    {
+        "time": "1:09:50",
+        "words": " whatever I'm I'm promoting or whatever services that I'm trying to sell through through my agency and the education program or is it through the end result"
+    },
+    {
+        "time": "1:09:57",
+        "words": " which is successful agency own has created or or successful client builds that we've done like it if you change the metric then you get a much better"
+    },
+    {
+        "time": "1:10:03",
+        "words": " better lens to look through to uh to determine what success really is yeah I love that and and I love the fact you"
+    },
+    {
+        "time": "1:10:09",
+        "words": " know at 23 you're you're really laying that down for this audience because it's so critical that you get the metric that"
+    },
+    {
+        "time": "1:10:17",
+        "words": " you're chasing right in life I know that in many parts of my life I've chased the"
+    },
+    {
+        "time": "1:10:22",
+        "words": " wrong metrics and it's it's always led me to [ __ ] things up or take money wrong"
+    },
+    {
+        "time": "1:10:29",
+        "words": " clients on you always do something stupid on the back of doing that you take the wrong clients on you do a bad"
+    },
+    {
+        "time": "1:10:34",
+        "words": " deal you lose money you lose focus you lose what the truth is if you just sit there with a journal and get real"
+    },
+    {
+        "time": "1:10:40",
+        "words": " straight on you know what you want out of life what you want out of your business what you're truly optimizing for and then ask yourself at the end of"
+    },
+    {
+        "time": "1:10:46",
+        "words": " the page you know is what I'm optimizing for what I really want you know and being radically honest with yourself"
+    },
+    {
+        "time": "1:10:52",
+        "words": " that allows you to go down the path that you're going down at 2 which could take you to 33 if you don't do it now so I"
+    },
+    {
+        "time": "1:10:58",
+        "words": " love the way you've articulated that I like to ask this question at the end of every podcast cuz I feel it articulates"
+    },
+    {
+        "time": "1:11:05",
+        "words": " for the audience something really powerful and measurable that they can take away and Implement in their life today and the question is this um if"
+    },
+    {
+        "time": "1:11:12",
+        "words": " there's one thing Liam that you've got to if you can't leave your AI agency you can't leave the money you can't leave"
+    },
+    {
+        "time": "1:11:17",
+        "words": " anything else but you could just leave one pear of wisdom with this audience that they can put in their life from today and it takes them forward 1% what"
+    },
+    {
+        "time": "1:11:24",
+        "words": " would that be to you if I was to have the biggest impact on as many people's lives as possible it"
+    },
+    {
+        "time": "1:11:31",
+        "words": " would be to consider if AI selling AI Solutions in some way could be a part of"
+    },
+    {
+        "time": "1:11:37",
+        "words": " your your journey and I think if you don't even can at least it might not be but at least consider it and that's not"
+    },
+    {
+        "time": "1:11:43",
+        "words": " because I'm I'm going to benefit from that it's really just this is the way that you can get the most out of of being an online business person in my"
+    },
+    {
+        "time": "1:11:49",
+        "words": " mind at this at this current time um and at least consider it please please just give it a look dig into some things and"
+    },
+    {
+        "time": "1:11:55",
+        "words": " see if look can I transfer my abilities over to the AI space because this is you don't want to look back in 5 years and"
+    },
+    {
+        "time": "1:12:00",
+        "words": " be like wow I really missed the boat on that so that's that's the most important thing that I would say if I could tell"
+    },
+    {
+        "time": "1:12:06",
+        "words": " myself as well it would be just consider it look into it give it a chance I like that I like the way you say consider it"
+    },
+    {
+        "time": "1:12:11",
+        "words": " because at the end of the day guys if you don't consider where the world's going you're going to get stopped in your tracks at some point in time so I"
+    },
+    {
+        "time": "1:12:17",
+        "words": " hope this podcast has been really really insightful on AI how you can use AI in"
+    },
+    {
+        "time": "1:12:22",
+        "words": " your business and the way that you should be looking at how you structure yourself so that you can take everything"
+    },
+    {
+        "time": "1:12:28",
+        "words": " you know that AI has to offer and even if you think you're a carpenter or you I'm just a carpenter or I'm just a"
+    },
+    {
+        "time": "1:12:33",
+        "words": " plumber or I'm just this or I'm just that or you can use it in any part any job role any position you can use it"
+    },
+    {
+        "time": "1:12:39",
+        "words": " from anywhere and you can learn in your own time do not miss the boat on AI and using it in the best way to serve"
+    },
+    {
+        "time": "1:12:45",
+        "words": " yourself as possible thank you very much for coming on here today brother I really appreciate it subscribe on every platform and I appreciate you listening"
+    },
+    {
+        "time": "1:12:53",
+        "words": " much love guys do me a solid favor drop a comment below this video and let us know who you want on the podcast next"
+    }
+]
