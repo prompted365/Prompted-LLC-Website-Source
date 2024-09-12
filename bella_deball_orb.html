@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voice AI Widget</title>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; frame-ancestors 'self'; media-src 'self' https://iframes.ai; microphone 'self' https://iframes.ai;">
+    <meta http-equiv="Permissions-Policy" content="microphone=(self 'https://iframes.ai'); camera=(self 'https://iframes.ai'); autoplay=(self 'https://iframes.ai')">
+</head>
+<body>
+    <iframe 
+        src="https://iframes.ai/o/1726178745936x234227814236684300" 
+        width="100%" 
+        height="200" 
+        frameborder="0" 
+        allow="microphone; camera; autoplay" 
+        allowfullscreen>
+    </iframe>
+
+    <script>
+        navigator.mediaDevices.getUserMedia({ audio: true })
+            .then(function(stream) {
+                console.log('Microphone access granted');
+            })
+            .catch(function(err) {
+                console.log('Microphone access denied', err);
+            });
+    </script>
+</body>
+</html>
